@@ -1,0 +1,452 @@
+2022-04-10 18:19:53,920 INFO f.p.f.FTPClient [main] FTP Connection Reply: 220
+2022-04-10 18:19:55,988 ERROR f.p.c.ScriptInteractor [main] Connection refused: connect
+2022-04-10 18:19:56,100 INFO u.c.n.t.p.FileListener [pool-2-thread-1] initial Content: ^
+2022-04-10 18:19:58,071 INFO u.c.n.t.p.FileListener [pool-2-thread-1] Added: example1.dat
+2022-04-10 18:19:58,071 INFO u.c.n.t.p.FileListener [pool-2-thread-1] File does not have prefix ingest, ignoring.
+2022-04-10 18:22:24,722 INFO f.p.c.ScriptRunner [Thread-0] Python Script Started
+2022-04-10 18:22:24,786 INFO f.p.c.ScriptRunner [Thread-0] python: can't open file 'C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\example_socket.py': [Errno 2] No such file or directory
+2022-04-10 18:22:24,789 INFO f.p.c.ScriptRunner [Thread-0] Python Script Finished
+2022-04-10 18:22:24,836 INFO f.p.f.FTPClient [main] FTP Connection Reply: 220
+2022-04-10 18:22:26,947 ERROR f.p.c.ScriptInteractor [main] Connection refused: connect
+2022-04-10 18:22:27,030 INFO u.c.n.t.p.FileListener [pool-2-thread-1] initial Content: ^
+2022-04-10 18:22:29,049 INFO u.c.n.t.p.FileListener [pool-2-thread-1] Added: example1.dat
+2022-04-10 18:22:29,050 INFO u.c.n.t.p.FileListener [pool-2-thread-1] File does not have prefix ingest, ignoring.
+2022-04-10 18:25:02,741 INFO f.p.c.ScriptRunner [Thread-0] Python Script Started
+2022-04-10 18:25:02,811 INFO f.p.c.ScriptRunner [Thread-0] python: can't open file 'C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\example_socket.py': [Errno 2] No such file or directory
+2022-04-10 18:25:02,814 INFO f.p.c.ScriptRunner [Thread-0] Python Script Finished
+2022-04-10 18:25:02,854 INFO f.p.f.FTPClient [main] FTP Connection Reply: 220
+2022-04-10 18:25:04,946 ERROR f.p.c.ScriptInteractor [main] Connection refused: connect
+2022-04-10 18:25:05,024 INFO u.c.n.t.p.FileListener [pool-2-thread-1] initial Content: ^
+2022-04-10 18:25:07,041 INFO u.c.n.t.p.FileListener [pool-2-thread-1] Added: example1.dat
+2022-04-10 18:25:07,041 INFO u.c.n.t.p.FileListener [pool-2-thread-1] File does not have prefix ingest, ignoring.
+2022-04-10 19:00:08,592 INFO f.p.c.ScriptRunner [Thread-0] Python Script Started
+2022-04-10 19:00:08,661 INFO f.p.c.ScriptRunner [Thread-0] python: can't open file 'C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\example_socket.py': [Errno 2] No such file or directory
+2022-04-10 19:00:08,664 INFO f.p.c.ScriptRunner [Thread-0] Python Script Finished
+2022-04-10 19:00:08,708 INFO f.p.f.FTPClient [main] FTP Connection Reply: 220
+2022-04-10 19:00:10,819 ERROR f.p.c.ScriptInteractor [main] Connection refused: connect
+2022-04-10 19:00:10,899 INFO u.c.n.t.p.FileListener [pool-2-thread-1] initial Content: ^
+2022-04-10 19:00:12,907 INFO u.c.n.t.p.FileListener [pool-2-thread-1] Added: example1.dat
+2022-04-10 19:00:12,908 INFO u.c.n.t.p.FileListener [pool-2-thread-1] File does not have prefix ingest, ignoring.
+2022-04-10 19:00:52,498 INFO f.p.c.ScriptRunner [Thread-0] Python Script Started
+2022-04-10 19:00:52,557 INFO f.p.c.ScriptRunner [Thread-0] python: can't open file 'C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\example_socket.py': [Errno 2] No such file or directory
+2022-04-10 19:00:52,563 INFO f.p.c.ScriptRunner [Thread-0] Python Script Finished
+2022-04-10 19:00:52,635 INFO f.p.f.FTPClient [main] FTP Connection Reply: 220
+2022-04-10 19:00:54,741 ERROR f.p.c.ScriptInteractor [main] Connection refused: connect
+2022-04-10 19:00:54,826 INFO u.c.n.t.p.FileListener [pool-2-thread-1] initial Content: ^
+2022-04-10 19:05:55,887 INFO f.p.c.ScriptRunner [Thread-0] Python Script Started
+2022-04-10 19:05:55,957 INFO f.p.c.ScriptRunner [Thread-0] python: can't open file 'C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\example_socket.py': [Errno 2] No such file or directory
+2022-04-10 19:05:55,960 INFO f.p.c.ScriptRunner [Thread-0] Python Script Finished
+2022-04-10 19:05:56,002 INFO f.p.f.FTPClient [main] FTP Connection Reply: 220
+2022-04-10 19:05:58,063 ERROR f.p.c.ScriptInteractor [main] Connection refused: connect
+2022-04-10 19:05:58,166 INFO u.c.n.t.p.FileListener [pool-2-thread-1] initial Content: ^
+2022-04-10 19:06:00,149 INFO u.c.n.t.p.FileListener [pool-2-thread-1] Added: example1.dat
+2022-04-10 19:06:00,150 INFO u.c.n.t.p.FileListener [pool-2-thread-1] File complete, downloading.
+2022-04-10 19:06:00,150 INFO f.p.f.FTPClient [pool-2-thread-1] Downloading file from C:/data\example1.dat, to C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example1.dat
+2022-04-10 19:06:00,170 INFO f.p.f.FTPClient [pool-2-thread-1] streamString: java.io.FileOutputStream@59542ee9
+2022-04-10 19:06:00,170 INFO f.p.f.FTPClient [pool-2-thread-1] fos
+2022-04-10 19:06:00,234 INFO f.p.f.FTPClient [pool-2-thread-1] retrieveFile
+2022-04-10 19:06:00,234 INFO f.p.q.FileQueue [pool-2-thread-1] Added file to queue: example1.dat
+2022-04-10 19:06:01,080 INFO f.p.q.FileQueue [Timer] Running Queued File: example1.dat
+2022-04-10 19:08:49,539 INFO f.p.c.ScriptRunner [Thread-0] Python Script Started
+2022-04-10 19:08:49,630 INFO f.p.c.ScriptRunner [Thread-0] Started Example Socket Script
+2022-04-10 19:08:49,650 INFO f.p.f.FTPClient [main] FTP Connection Reply: 220
+2022-04-10 19:08:49,820 INFO u.c.n.t.p.FileListener [pool-2-thread-1] initial Content: ^
+2022-04-10 19:08:51,802 INFO u.c.n.t.p.FileListener [pool-2-thread-1] Added: example1.dat
+2022-04-10 19:08:51,802 INFO u.c.n.t.p.FileListener [pool-2-thread-1] File complete, downloading.
+2022-04-10 19:08:51,802 INFO f.p.f.FTPClient [pool-2-thread-1] Downloading file from C:/data\example1.dat, to C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example1.dat
+2022-04-10 19:08:51,834 INFO f.p.f.FTPClient [pool-2-thread-1] streamString: java.io.FileOutputStream@4b1a1648
+2022-04-10 19:08:51,834 INFO f.p.f.FTPClient [pool-2-thread-1] fos
+2022-04-10 19:08:51,897 INFO f.p.f.FTPClient [pool-2-thread-1] retrieveFile
+2022-04-10 19:08:51,897 INFO f.p.q.FileQueue [pool-2-thread-1] Added file to queue: example1.dat
+2022-04-10 19:08:52,737 INFO f.p.q.FileQueue [Timer] Running Queued File: example1.dat
+2022-04-10 19:08:52,740 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  example1.dat
+2022-04-10 19:08:52,740 INFO f.p.q.FileQueue [Timer] Finished Queued File: example1.dat
+2022-04-10 19:08:52,740 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 19:08:52,740 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 19:15:12,689 INFO f.p.c.ScriptRunner [Thread-0] Python Script Started
+2022-04-10 19:15:12,771 INFO f.p.c.ScriptRunner [Thread-0] Started Example Socket Script
+2022-04-10 19:15:12,808 INFO f.p.f.FTPClient [main] FTP Connection Reply: 220
+2022-04-10 19:15:12,994 INFO u.c.n.t.p.FileListener [pool-2-thread-1] initial Content: ^
+2022-04-10 19:15:14,935 INFO u.c.n.t.p.FileListener [pool-2-thread-1] Added: example1.dat
+2022-04-10 19:15:14,935 INFO u.c.n.t.p.FileListener [pool-2-thread-1] File complete, downloading.
+2022-04-10 19:15:14,935 INFO f.p.f.FTPClient [pool-2-thread-1] Downloading file from C:/data\example1.dat, to C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example1.dat
+2022-04-10 19:15:14,958 INFO f.p.f.FTPClient [pool-2-thread-1] streamString: java.io.FileOutputStream@4b1a1648
+2022-04-10 19:15:14,959 INFO f.p.f.FTPClient [pool-2-thread-1] fos
+2022-04-10 19:15:15,023 INFO f.p.f.FTPClient [pool-2-thread-1] retrieveFile
+2022-04-10 19:15:15,023 INFO f.p.q.FileQueue [pool-2-thread-1] Added file to queue: example1.dat
+2022-04-10 19:15:15,884 INFO f.p.q.FileQueue [Timer] Running Queued File: example1.dat
+2022-04-10 19:15:15,887 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  example1.dat
+2022-04-10 19:15:15,887 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 19:15:15,887 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 19:15:15,888 INFO f.p.c.ScriptRunner [Thread-0] Traceback (most recent call last):
+2022-04-10 19:15:15,889 INFO f.p.c.ScriptRunner [Thread-0]   File "C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\example_socket.py", line 31, in <module>
+2022-04-10 19:15:15,889 INFO f.p.c.ScriptRunner [Thread-0]     f = open(filename, "r")
+2022-04-10 19:15:15,890 INFO f.p.c.ScriptRunner [Thread-0] FileNotFoundError: [Errno 2] No such file or directory: 'example1.dat'
+2022-04-10 19:15:15,890 INFO f.p.q.FileQueue [Timer] Finished Queued File: example1.dat
+2022-04-10 19:15:15,893 INFO f.p.c.ScriptRunner [Thread-0] Python Script Finished
+2022-04-10 19:19:10,019 INFO f.p.c.ScriptRunner [Thread-0] Python Script Started
+2022-04-10 19:19:10,097 INFO f.p.c.ScriptRunner [Thread-0] Started Example Socket Script
+2022-04-10 19:19:10,124 INFO f.p.f.FTPClient [main] FTP Connection Reply: 220
+2022-04-10 19:19:10,289 INFO u.c.n.t.p.FileListener [pool-2-thread-1] initial Content: ^
+2022-04-10 19:19:12,249 INFO u.c.n.t.p.FileListener [pool-2-thread-1] Added: example1.dat
+2022-04-10 19:19:12,249 INFO u.c.n.t.p.FileListener [pool-2-thread-1] File complete, downloading.
+2022-04-10 19:19:12,249 INFO f.p.f.FTPClient [pool-2-thread-1] Downloading file from C:/data\example1.dat, to C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example1.dat
+2022-04-10 19:19:12,274 INFO f.p.f.FTPClient [pool-2-thread-1] streamString: java.io.FileOutputStream@4356928
+2022-04-10 19:19:12,274 INFO f.p.f.FTPClient [pool-2-thread-1] fos
+2022-04-10 19:19:12,336 INFO f.p.f.FTPClient [pool-2-thread-1] retrieveFile
+2022-04-10 19:19:12,337 INFO f.p.q.FileQueue [pool-2-thread-1] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example1.dat
+2022-04-10 19:19:13,210 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example1.dat
+2022-04-10 19:19:13,212 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example1.dat
+2022-04-10 19:19:13,213 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 19:19:13,213 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 19:19:13,215 INFO f.p.c.ScriptRunner [Thread-0] Sum= 6
+2022-04-10 19:19:13,215 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example1.dat
+2022-04-10 19:19:13,215 INFO f.p.c.ScriptRunner [Thread-0] File Contents: 1
+2022-04-10 19:19:13,215 INFO f.p.c.ScriptRunner [Thread-0] 2
+2022-04-10 19:19:13,215 INFO f.p.c.ScriptRunner [Thread-0] 3  Length= 5
+2022-04-10 19:24:54,436 INFO f.p.c.ScriptRunner [Thread-0] Python Script Started
+2022-04-10 19:24:54,525 INFO f.p.c.ScriptRunner [Thread-0] Started Example Socket Script
+2022-04-10 19:24:54,558 INFO f.p.f.FTPClient [main] FTP Connection Reply: 220
+2022-04-10 19:24:54,712 INFO u.c.n.t.p.FileListener [pool-2-thread-1] initial Content: ^
+2022-04-10 19:24:56,682 INFO u.c.n.t.p.FileListener [pool-2-thread-1] Added: example1.dat
+2022-04-10 19:24:56,682 INFO u.c.n.t.p.FileListener [pool-2-thread-1] File complete, downloading.
+2022-04-10 19:24:56,682 INFO f.p.f.FTPClient [pool-2-thread-1] Downloading file from C:/data\example1.dat, to C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example1.dat
+2022-04-10 19:24:56,708 INFO f.p.f.FTPClient [pool-2-thread-1] streamString: java.io.FileOutputStream@737faf3a
+2022-04-10 19:24:56,708 INFO f.p.f.FTPClient [pool-2-thread-1] fos
+2022-04-10 19:24:56,771 INFO f.p.f.FTPClient [pool-2-thread-1] retrieveFile
+2022-04-10 19:24:56,771 INFO f.p.q.FileQueue [pool-2-thread-1] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example1.dat
+2022-04-10 19:24:57,631 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example1.dat
+2022-04-10 19:24:57,634 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example1.dat
+2022-04-10 19:24:57,634 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 19:24:57,635 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 19:24:57,640 INFO f.p.c.ScriptRunner [Thread-0] Sum= 6
+2022-04-10 19:24:57,640 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example1.dat
+2022-04-10 19:24:57,640 INFO f.p.c.ScriptRunner [Thread-0] File Contents: 1
+2022-04-10 19:24:57,641 INFO f.p.c.ScriptRunner [Thread-0] 2
+2022-04-10 19:24:57,641 INFO f.p.c.ScriptRunner [Thread-0] 3  Length= 5
+2022-04-10 19:31:15,234 INFO f.p.c.ScriptRunner [Thread-0] Python Script Started
+2022-04-10 19:31:15,324 INFO f.p.c.ScriptRunner [Thread-0] Started Example Socket Script
+2022-04-10 19:31:15,343 INFO f.p.f.FTPClient [main] FTP Connection Reply: 220
+2022-04-10 19:31:15,501 INFO u.c.n.t.p.FileListener [pool-2-thread-1] initial Content: ^
+2022-04-10 19:31:17,498 INFO u.c.n.t.p.FileListener [pool-2-thread-1] Added: example1.dat
+2022-04-10 19:31:17,499 INFO u.c.n.t.p.FileListener [pool-2-thread-1] File complete, downloading.
+2022-04-10 19:31:17,499 INFO f.p.f.FTPClient [pool-2-thread-1] Downloading file from C:/data\example1.dat, to C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example1.dat
+2022-04-10 19:31:17,519 INFO f.p.f.FTPClient [pool-2-thread-1] streamString: java.io.FileOutputStream@1eac675e
+2022-04-10 19:31:17,520 INFO f.p.f.FTPClient [pool-2-thread-1] fos
+2022-04-10 19:31:17,583 INFO f.p.f.FTPClient [pool-2-thread-1] retrieveFile
+2022-04-10 19:31:17,583 INFO f.p.q.FileQueue [pool-2-thread-1] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example1.dat
+2022-04-10 19:31:18,428 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example1.dat
+2022-04-10 19:31:18,430 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example1.dat
+2022-04-10 19:31:18,431 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 19:31:18,431 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 19:31:18,435 INFO f.p.c.ScriptRunner [Thread-0] Sum= 6
+2022-04-10 19:31:18,435 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example1.dat
+2022-04-10 19:31:18,435 INFO f.p.c.ScriptRunner [Thread-0] File Contents: 1
+2022-04-10 19:31:18,436 INFO f.p.c.ScriptRunner [Thread-0] 2
+2022-04-10 19:31:18,436 INFO f.p.c.ScriptRunner [Thread-0] 3  Length= 5
+2022-04-10 19:31:23,490 INFO u.c.n.t.p.FileListener [pool-2-thread-1] Added: example2.dat
+2022-04-10 19:31:23,490 INFO u.c.n.t.p.FileListener [pool-2-thread-1] File complete, downloading.
+2022-04-10 19:31:23,490 INFO f.p.f.FTPClient [pool-2-thread-1] Downloading file from C:/data\example2.dat, to C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example2.dat
+2022-04-10 19:31:23,524 INFO f.p.f.FTPClient [pool-2-thread-1] streamString: java.io.FileOutputStream@334ab56a
+2022-04-10 19:31:23,525 INFO f.p.f.FTPClient [pool-2-thread-1] fos
+2022-04-10 19:31:23,584 INFO f.p.f.FTPClient [pool-2-thread-1] retrieveFile
+2022-04-10 19:31:23,585 INFO f.p.q.FileQueue [pool-2-thread-1] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example2.dat
+2022-04-10 19:31:24,442 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example2.dat
+2022-04-10 19:31:24,444 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example2.dat
+2022-04-10 19:31:24,445 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 19:31:24,445 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 19:31:24,447 INFO f.p.c.ScriptRunner [Thread-0] Sum= 15
+2022-04-10 19:31:24,447 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example2.dat
+2022-04-10 19:31:24,448 INFO f.p.c.ScriptRunner [Thread-0] File Contents: 4
+2022-04-10 19:31:24,448 INFO f.p.c.ScriptRunner [Thread-0] 5
+2022-04-10 19:31:24,448 INFO f.p.c.ScriptRunner [Thread-0] 6  Length= 5
+2022-04-10 19:31:27,464 INFO u.c.n.t.p.FileListener [pool-2-thread-1] Added: example3.dat
+2022-04-10 19:31:27,464 INFO u.c.n.t.p.FileListener [pool-2-thread-1] File complete, downloading.
+2022-04-10 19:31:27,464 INFO f.p.f.FTPClient [pool-2-thread-1] Downloading file from C:/data\example3.dat, to C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example3.dat
+2022-04-10 19:31:27,494 INFO f.p.f.FTPClient [pool-2-thread-1] streamString: java.io.FileOutputStream@23d17164
+2022-04-10 19:31:27,495 INFO f.p.f.FTPClient [pool-2-thread-1] fos
+2022-04-10 19:31:27,556 INFO f.p.f.FTPClient [pool-2-thread-1] retrieveFile
+2022-04-10 19:31:27,556 INFO f.p.q.FileQueue [pool-2-thread-1] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example3.dat
+2022-04-10 19:31:28,449 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example3.dat
+2022-04-10 19:31:28,450 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example3.dat
+2022-04-10 19:31:28,451 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 19:31:28,452 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 19:31:28,458 INFO f.p.c.ScriptRunner [Thread-0] Sum= 24
+2022-04-10 19:31:28,458 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example3.dat
+2022-04-10 19:31:28,458 INFO f.p.c.ScriptRunner [Thread-0] File Contents: 7
+2022-04-10 19:31:28,458 INFO f.p.c.ScriptRunner [Thread-0] 8
+2022-04-10 19:31:28,458 INFO f.p.c.ScriptRunner [Thread-0] 9  Length= 5
+2022-04-10 19:35:10,673 INFO f.p.c.ScriptRunner [Thread-0] Python Script Started
+2022-04-10 19:35:10,743 INFO f.p.c.ScriptRunner [Thread-0] Started Example Socket Script
+2022-04-10 19:35:10,783 INFO f.p.f.FTPClient [main] FTP Connection Reply: 220
+2022-04-10 19:35:10,931 INFO u.c.n.t.p.FileListener [pool-2-thread-1] initial Content: ^
+2022-04-10 19:35:28,368 INFO f.p.c.ScriptRunner [Thread-0] Python Script Started
+2022-04-10 19:35:28,447 INFO f.p.c.ScriptRunner [Thread-0] Started Example Socket Script
+2022-04-10 19:35:28,485 INFO f.p.f.FTPClient [main] FTP Connection Reply: 220
+2022-04-10 19:35:28,649 INFO u.c.n.t.p.FileListener [pool-2-thread-1] initial Content: ^
+2022-04-10 19:35:30,603 INFO u.c.n.t.p.FileListener [pool-2-thread-1] Added: example1.dat
+2022-04-10 19:35:30,603 INFO u.c.n.t.p.FileListener [pool-2-thread-1] File complete, downloading.
+2022-04-10 19:35:30,603 INFO f.p.f.FTPClient [pool-2-thread-1] Downloading file from C:/data\example1.dat, to C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example1.dat
+2022-04-10 19:35:30,626 INFO f.p.f.FTPClient [pool-2-thread-1] streamString: java.io.FileOutputStream@1eac675e
+2022-04-10 19:35:30,626 INFO f.p.f.FTPClient [pool-2-thread-1] fos
+2022-04-10 19:35:30,688 INFO f.p.f.FTPClient [pool-2-thread-1] retrieveFile
+2022-04-10 19:35:30,689 INFO f.p.q.FileQueue [pool-2-thread-1] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example1.dat
+2022-04-10 19:35:31,577 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example1.dat
+2022-04-10 19:35:31,578 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example1.dat
+2022-04-10 19:35:31,578 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 19:35:31,578 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 19:35:31,579 INFO f.p.c.ScriptRunner [Thread-0] Sum= 6
+2022-04-10 19:35:31,579 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example1.dat
+2022-04-10 19:35:31,579 INFO f.p.c.ScriptRunner [Thread-0] File Contents: 1
+2022-04-10 19:35:31,580 INFO f.p.c.ScriptRunner [Thread-0] 2
+2022-04-10 19:35:31,580 INFO f.p.c.ScriptRunner [Thread-0] 3  Length= 5
+2022-04-10 19:35:36,606 INFO u.c.n.t.p.FileListener [pool-2-thread-1] Added: example2.dat
+2022-04-10 19:35:36,606 INFO u.c.n.t.p.FileListener [pool-2-thread-1] File complete, downloading.
+2022-04-10 19:35:36,606 INFO f.p.f.FTPClient [pool-2-thread-1] Downloading file from C:/data\example2.dat, to C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example2.dat
+2022-04-10 19:35:36,636 INFO f.p.f.FTPClient [pool-2-thread-1] streamString: java.io.FileOutputStream@334ab56a
+2022-04-10 19:35:36,636 INFO f.p.f.FTPClient [pool-2-thread-1] fos
+2022-04-10 19:35:36,698 INFO f.p.f.FTPClient [pool-2-thread-1] retrieveFile
+2022-04-10 19:35:36,698 INFO f.p.q.FileQueue [pool-2-thread-1] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example2.dat
+2022-04-10 19:35:37,606 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example2.dat
+2022-04-10 19:35:37,607 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example2.dat
+2022-04-10 19:35:37,608 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 19:35:37,608 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 19:35:37,610 INFO f.p.c.ScriptRunner [Thread-0] Sum= 15
+2022-04-10 19:35:37,610 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example2.dat
+2022-04-10 19:35:37,610 INFO f.p.c.ScriptRunner [Thread-0] File Contents: 4
+2022-04-10 19:35:37,611 INFO f.p.c.ScriptRunner [Thread-0] 5
+2022-04-10 19:35:37,611 INFO f.p.c.ScriptRunner [Thread-0] 6  Length= 5
+2022-04-10 19:35:40,592 INFO u.c.n.t.p.FileListener [pool-2-thread-1] Added: example3.dat
+2022-04-10 19:35:40,592 INFO u.c.n.t.p.FileListener [pool-2-thread-1] File complete, downloading.
+2022-04-10 19:35:40,593 INFO f.p.f.FTPClient [pool-2-thread-1] Downloading file from C:/data\example3.dat, to C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example3.dat
+2022-04-10 19:35:40,623 INFO f.p.f.FTPClient [pool-2-thread-1] streamString: java.io.FileOutputStream@23d17164
+2022-04-10 19:35:40,623 INFO f.p.f.FTPClient [pool-2-thread-1] fos
+2022-04-10 19:35:40,688 INFO f.p.f.FTPClient [pool-2-thread-1] retrieveFile
+2022-04-10 19:35:40,688 INFO f.p.q.FileQueue [pool-2-thread-1] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example3.dat
+2022-04-10 19:35:41,623 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example3.dat
+2022-04-10 19:35:41,623 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example3.dat
+2022-04-10 19:35:41,623 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 19:35:41,623 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 19:35:41,624 INFO f.p.c.ScriptRunner [Thread-0] Sum= 24
+2022-04-10 19:35:41,624 INFO f.p.c.ScriptRunner [Thread-0] File Contents: 7
+2022-04-10 19:35:41,624 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example3.dat
+2022-04-10 19:35:41,625 INFO f.p.c.ScriptRunner [Thread-0] 8
+2022-04-10 19:35:41,625 INFO f.p.c.ScriptRunner [Thread-0] 9  Length= 5
+2022-04-11 10:07:23,237 INFO f.p.f.FTPClientImpl [main] FTP Connection Reply: 220
+2022-04-11 10:07:23,299 INFO f.p.c.ScriptRunner [Thread-2] Python Script Started
+2022-04-11 10:07:23,355 INFO f.p.c.ScriptRunner [Thread-2] Started Example Socket Script
+2022-04-11 10:07:23,902 INFO f.p.p.FileListener [pool-2-thread-1] initial Content: ^
+2022-04-11 10:07:25,871 INFO f.p.p.FileListener [pool-2-thread-1] Added: example1.dat
+2022-04-11 10:07:25,872 INFO f.p.p.FileListener [pool-2-thread-1] File complete, downloading.
+2022-04-11 10:07:25,872 INFO f.p.f.FTPClientImpl [pool-2-thread-1] Downloading file from C:/data\example1.dat, to C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example1.dat
+2022-04-11 10:07:25,895 INFO f.p.f.FTPClientImpl [pool-2-thread-1] streamString: java.io.FileOutputStream@a1bcc53
+2022-04-11 10:07:25,895 INFO f.p.f.FTPClientImpl [pool-2-thread-1] fos
+2022-04-11 10:07:25,960 INFO f.p.f.FTPClientImpl [pool-2-thread-1] retrieveFile
+2022-04-11 10:07:25,960 INFO f.p.q.FileQueue [pool-2-thread-1] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example1.dat
+2022-04-11 10:07:26,818 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example1.dat
+2022-04-11 10:07:26,821 INFO f.p.c.ScriptRunner [Thread-2] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example1.dat
+2022-04-11 10:07:26,821 INFO f.p.c.ScriptRunner [Thread-2] 
+2022-04-11 10:07:26,822 INFO f.p.c.ScriptRunner [Thread-2] 
+2022-04-11 10:07:26,827 INFO f.p.c.ScriptRunner [Thread-2] Sum= 6
+2022-04-11 10:07:26,827 INFO f.p.c.ScriptRunner [Thread-2] File Contents: 1
+2022-04-11 10:07:26,827 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example1.dat
+2022-04-11 10:07:26,828 INFO f.p.c.ScriptRunner [Thread-2] 2
+2022-04-11 10:07:26,828 INFO f.p.c.ScriptRunner [Thread-2] 3  Length= 5
+2022-04-11 10:07:31,878 INFO f.p.p.FileListener [pool-2-thread-1] Added: example2.dat
+2022-04-11 10:07:31,878 INFO f.p.p.FileListener [pool-2-thread-1] File complete, downloading.
+2022-04-11 10:07:31,878 INFO f.p.f.FTPClientImpl [pool-2-thread-1] Downloading file from C:/data\example2.dat, to C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example2.dat
+2022-04-11 10:07:31,908 INFO f.p.f.FTPClientImpl [pool-2-thread-1] streamString: java.io.FileOutputStream@36a10653
+2022-04-11 10:07:31,908 INFO f.p.f.FTPClientImpl [pool-2-thread-1] fos
+2022-04-11 10:07:31,970 INFO f.p.f.FTPClientImpl [pool-2-thread-1] retrieveFile
+2022-04-11 10:07:31,970 INFO f.p.q.FileQueue [pool-2-thread-1] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example2.dat
+2022-04-11 10:07:32,862 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example2.dat
+2022-04-11 10:07:32,862 INFO f.p.c.ScriptRunner [Thread-2] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example2.dat
+2022-04-11 10:07:32,863 INFO f.p.c.ScriptRunner [Thread-2] 
+2022-04-11 10:07:32,863 INFO f.p.c.ScriptRunner [Thread-2] 
+2022-04-11 10:07:32,873 INFO f.p.c.ScriptRunner [Thread-2] Sum= 15
+2022-04-11 10:07:32,873 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example2.dat
+2022-04-11 10:07:32,873 INFO f.p.c.ScriptRunner [Thread-2] File Contents: 4
+2022-04-11 10:07:32,873 INFO f.p.c.ScriptRunner [Thread-2] 5
+2022-04-11 10:07:32,873 INFO f.p.c.ScriptRunner [Thread-2] 6  Length= 5
+2022-04-11 10:07:35,880 INFO f.p.p.FileListener [pool-2-thread-1] Added: example3.dat
+2022-04-11 10:07:35,880 INFO f.p.p.FileListener [pool-2-thread-1] File complete, downloading.
+2022-04-11 10:07:35,881 INFO f.p.f.FTPClientImpl [pool-2-thread-1] Downloading file from C:/data\example3.dat, to C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example3.dat
+2022-04-11 10:07:35,910 INFO f.p.f.FTPClientImpl [pool-2-thread-1] streamString: java.io.FileOutputStream@bb7f672
+2022-04-11 10:07:35,911 INFO f.p.f.FTPClientImpl [pool-2-thread-1] fos
+2022-04-11 10:07:35,976 INFO f.p.f.FTPClientImpl [pool-2-thread-1] retrieveFile
+2022-04-11 10:07:35,976 INFO f.p.q.FileQueue [pool-2-thread-1] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example3.dat
+2022-04-11 10:07:36,885 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example3.dat
+2022-04-11 10:07:36,887 INFO f.p.c.ScriptRunner [Thread-2] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example3.dat
+2022-04-11 10:07:36,888 INFO f.p.c.ScriptRunner [Thread-2] 
+2022-04-11 10:07:36,888 INFO f.p.c.ScriptRunner [Thread-2] 
+2022-04-11 10:07:36,890 INFO f.p.c.ScriptRunner [Thread-2] Sum= 24
+2022-04-11 10:07:36,890 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example3.dat
+2022-04-11 10:07:36,890 INFO f.p.c.ScriptRunner [Thread-2] File Contents: 7
+2022-04-11 10:07:36,890 INFO f.p.c.ScriptRunner [Thread-2] 8
+2022-04-11 10:07:36,890 INFO f.p.c.ScriptRunner [Thread-2] 9  Length= 5
+2022-04-11 10:08:24,307 INFO f.p.f.FTPClientImpl [main] FTP Connection Reply: 220
+2022-04-11 10:08:24,354 INFO f.p.c.ScriptRunner [Thread-2] Python Script Started
+2022-04-11 10:08:24,411 INFO f.p.c.ScriptRunner [Thread-2] Started Example Socket Script
+2022-04-11 10:08:24,944 INFO f.p.p.FileListener [pool-2-thread-1] initial Content: ^
+2022-04-11 10:13:29,079 INFO f.p.f.FTPClientImpl [main] FTP Connection Reply: 220
+2022-04-11 10:13:29,132 INFO f.p.c.ScriptRunner [Thread-2] Python Script Started
+2022-04-11 10:13:29,190 INFO f.p.c.ScriptRunner [Thread-2] Started Example Socket Script
+2022-04-11 10:13:29,713 INFO f.p.p.FileListener [pool-2-thread-1] initial Content: ^
+2022-04-11 10:13:31,743 INFO f.p.p.FileListener [pool-2-thread-1] Added: example1.dat
+2022-04-11 10:13:31,743 INFO f.p.p.FileListener [pool-2-thread-1] File complete, downloading.
+2022-04-11 10:13:31,743 INFO f.p.f.FTPClientImpl [pool-2-thread-1] Downloading file from C:/data\example1.dat, to C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example1.dat
+2022-04-11 10:13:31,763 INFO f.p.f.FTPClientImpl [pool-2-thread-1] streamString: java.io.FileOutputStream@a1bcc53
+2022-04-11 10:13:31,764 INFO f.p.f.FTPClientImpl [pool-2-thread-1] fos
+2022-04-11 10:13:31,827 INFO f.p.f.FTPClientImpl [pool-2-thread-1] retrieveFile
+2022-04-11 10:13:31,828 INFO f.p.q.FileQueue [pool-2-thread-1] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example1.dat
+2022-04-11 10:13:32,655 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example1.dat
+2022-04-11 10:13:32,657 INFO f.p.c.ScriptRunner [Thread-2] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example1.dat
+2022-04-11 10:13:32,658 INFO f.p.c.ScriptRunner [Thread-2] 
+2022-04-11 10:13:32,658 INFO f.p.c.ScriptRunner [Thread-2] 
+2022-04-11 10:13:32,660 INFO f.p.c.ScriptRunner [Thread-2] Sum= 6
+2022-04-11 10:13:32,660 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example1.dat
+2022-04-11 10:13:32,660 INFO f.p.c.ScriptRunner [Thread-2] File Contents: 1
+2022-04-11 10:13:32,660 INFO f.p.c.ScriptRunner [Thread-2] 2
+2022-04-11 10:13:32,660 INFO f.p.c.ScriptRunner [Thread-2] 3  Length= 5
+2022-04-11 10:13:35,708 INFO f.p.p.FileListener [pool-2-thread-1] Added: example2.dat
+2022-04-11 10:13:35,708 INFO f.p.p.FileListener [pool-2-thread-1] File complete, downloading.
+2022-04-11 10:13:35,708 INFO f.p.f.FTPClientImpl [pool-2-thread-1] Downloading file from C:/data\example2.dat, to C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example2.dat
+2022-04-11 10:13:35,738 INFO f.p.f.FTPClientImpl [pool-2-thread-1] streamString: java.io.FileOutputStream@39838b25
+2022-04-11 10:13:35,738 INFO f.p.f.FTPClientImpl [pool-2-thread-1] fos
+2022-04-11 10:13:35,802 INFO f.p.f.FTPClientImpl [pool-2-thread-1] retrieveFile
+2022-04-11 10:13:35,803 INFO f.p.q.FileQueue [pool-2-thread-1] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example2.dat
+2022-04-11 10:13:36,677 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example2.dat
+2022-04-11 10:13:36,678 INFO f.p.c.ScriptRunner [Thread-2] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example2.dat
+2022-04-11 10:13:36,679 INFO f.p.c.ScriptRunner [Thread-2] 
+2022-04-11 10:13:36,679 INFO f.p.c.ScriptRunner [Thread-2] 
+2022-04-11 10:13:36,681 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example2.dat
+2022-04-11 10:13:36,685 INFO f.p.c.ScriptRunner [Thread-2] Sum= 15
+2022-04-11 10:13:36,685 INFO f.p.c.ScriptRunner [Thread-2] File Contents: 4
+2022-04-11 10:13:36,685 INFO f.p.c.ScriptRunner [Thread-2] 5
+2022-04-11 10:13:36,685 INFO f.p.c.ScriptRunner [Thread-2] 6  Length= 5
+2022-04-11 10:13:41,726 INFO f.p.p.FileListener [pool-2-thread-1] Added: example3.dat
+2022-04-11 10:13:41,727 INFO f.p.p.FileListener [pool-2-thread-1] File complete, downloading.
+2022-04-11 10:13:41,727 INFO f.p.f.FTPClientImpl [pool-2-thread-1] Downloading file from C:/data\example3.dat, to C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example3.dat
+2022-04-11 10:13:41,754 INFO f.p.f.FTPClientImpl [pool-2-thread-1] streamString: java.io.FileOutputStream@7613a336
+2022-04-11 10:13:41,755 INFO f.p.f.FTPClientImpl [pool-2-thread-1] fos
+2022-04-11 10:13:41,817 INFO f.p.f.FTPClientImpl [pool-2-thread-1] retrieveFile
+2022-04-11 10:13:41,817 INFO f.p.q.FileQueue [pool-2-thread-1] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example3.dat
+2022-04-11 10:13:42,692 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example3.dat
+2022-04-11 10:13:42,693 INFO f.p.c.ScriptRunner [Thread-2] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example3.dat
+2022-04-11 10:13:42,694 INFO f.p.c.ScriptRunner [Thread-2] 
+2022-04-11 10:13:42,694 INFO f.p.c.ScriptRunner [Thread-2] 
+2022-04-11 10:13:42,696 INFO f.p.c.ScriptRunner [Thread-2] Sum= 24
+2022-04-11 10:13:42,697 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example3.dat
+2022-04-11 10:13:42,697 INFO f.p.c.ScriptRunner [Thread-2] File Contents: 7
+2022-04-11 10:13:42,697 INFO f.p.c.ScriptRunner [Thread-2] 8
+2022-04-11 10:13:42,698 INFO f.p.c.ScriptRunner [Thread-2] 9  Length= 5
+2022-04-11 10:13:45,711 ERROR f.p.f.FTPClientImpl [pool-2-thread-1] Socket closed
+2022-04-11 10:13:45,715 INFO f.p.p.FileListener [pool-2-thread-1] I/O error raised!
+2022-04-11 10:13:56,990 INFO f.p.f.FTPClientImpl [main] FTP Connection Reply: 220
+2022-04-11 10:13:57,042 INFO f.p.c.ScriptRunner [Thread-2] Python Script Started
+2022-04-11 10:13:57,103 INFO f.p.c.ScriptRunner [Thread-2] Started Example Socket Script
+2022-04-11 10:13:57,641 INFO f.p.p.FileListener [pool-2-thread-1] initial Content: ^
+2022-04-11 10:13:59,657 INFO f.p.p.FileListener [pool-2-thread-1] Added: example1.dat
+2022-04-11 10:13:59,657 INFO f.p.p.FileListener [pool-2-thread-1] File complete, downloading.
+2022-04-11 10:13:59,658 INFO f.p.f.FTPClientImpl [pool-2-thread-1] Downloading file from C:/data\example1.dat, to C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example1.dat
+2022-04-11 10:13:59,689 INFO f.p.f.FTPClientImpl [pool-2-thread-1] streamString: java.io.FileOutputStream@a1bcc53
+2022-04-11 10:13:59,689 INFO f.p.f.FTPClientImpl [pool-2-thread-1] fos
+2022-04-11 10:13:59,753 INFO f.p.f.FTPClientImpl [pool-2-thread-1] retrieveFile
+2022-04-11 10:13:59,753 INFO f.p.q.FileQueue [pool-2-thread-1] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example1.dat
+2022-04-11 10:14:00,578 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example1.dat
+2022-04-11 10:14:00,580 INFO f.p.c.ScriptRunner [Thread-2] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example1.dat
+2022-04-11 10:14:00,581 INFO f.p.c.ScriptRunner [Thread-2] 
+2022-04-11 10:14:00,581 INFO f.p.c.ScriptRunner [Thread-2] 
+2022-04-11 10:14:00,585 INFO f.p.c.ScriptRunner [Thread-2] Sum= 6
+2022-04-11 10:14:00,585 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example1.dat
+2022-04-11 10:14:00,585 INFO f.p.c.ScriptRunner [Thread-2] File Contents: 1
+2022-04-11 10:14:00,586 INFO f.p.c.ScriptRunner [Thread-2] 2
+2022-04-11 10:14:00,586 INFO f.p.c.ScriptRunner [Thread-2] 3  Length= 5
+2022-04-11 10:14:05,647 INFO f.p.p.FileListener [pool-2-thread-1] Added: example2.dat
+2022-04-11 10:14:05,647 INFO f.p.p.FileListener [pool-2-thread-1] File complete, downloading.
+2022-04-11 10:14:05,647 INFO f.p.f.FTPClientImpl [pool-2-thread-1] Downloading file from C:/data\example2.dat, to C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example2.dat
+2022-04-11 10:14:05,678 INFO f.p.f.FTPClientImpl [pool-2-thread-1] streamString: java.io.FileOutputStream@36a10653
+2022-04-11 10:14:05,678 INFO f.p.f.FTPClientImpl [pool-2-thread-1] fos
+2022-04-11 10:14:05,739 INFO f.p.f.FTPClientImpl [pool-2-thread-1] retrieveFile
+2022-04-11 10:14:05,740 INFO f.p.q.FileQueue [pool-2-thread-1] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example2.dat
+2022-04-11 10:14:06,611 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example2.dat
+2022-04-11 10:14:06,612 INFO f.p.c.ScriptRunner [Thread-2] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example2.dat
+2022-04-11 10:14:06,613 INFO f.p.c.ScriptRunner [Thread-2] 
+2022-04-11 10:14:06,613 INFO f.p.c.ScriptRunner [Thread-2] 
+2022-04-11 10:14:06,614 INFO f.p.c.ScriptRunner [Thread-2] Sum= 15
+2022-04-11 10:14:06,614 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example2.dat
+2022-04-11 10:14:06,615 INFO f.p.c.ScriptRunner [Thread-2] File Contents: 4
+2022-04-11 10:14:06,615 INFO f.p.c.ScriptRunner [Thread-2] 5
+2022-04-11 10:14:06,616 INFO f.p.c.ScriptRunner [Thread-2] 6  Length= 5
+2022-04-11 10:14:09,640 INFO f.p.p.FileListener [pool-2-thread-1] Added: example3.dat
+2022-04-11 10:14:09,640 INFO f.p.p.FileListener [pool-2-thread-1] File complete, downloading.
+2022-04-11 10:14:09,640 INFO f.p.f.FTPClientImpl [pool-2-thread-1] Downloading file from C:/data\example3.dat, to C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example3.dat
+2022-04-11 10:14:09,667 INFO f.p.f.FTPClientImpl [pool-2-thread-1] streamString: java.io.FileOutputStream@bb7f672
+2022-04-11 10:14:09,667 INFO f.p.f.FTPClientImpl [pool-2-thread-1] fos
+2022-04-11 10:14:09,731 INFO f.p.f.FTPClientImpl [pool-2-thread-1] retrieveFile
+2022-04-11 10:14:09,731 INFO f.p.q.FileQueue [pool-2-thread-1] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example3.dat
+2022-04-11 10:14:10,621 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example3.dat
+2022-04-11 10:14:10,622 INFO f.p.c.ScriptRunner [Thread-2] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example3.dat
+2022-04-11 10:14:10,622 INFO f.p.c.ScriptRunner [Thread-2] 
+2022-04-11 10:14:10,623 INFO f.p.c.ScriptRunner [Thread-2] 
+2022-04-11 10:14:10,624 INFO f.p.c.ScriptRunner [Thread-2] Sum= 24
+2022-04-11 10:14:10,624 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example3.dat
+2022-04-11 10:14:10,625 INFO f.p.c.ScriptRunner [Thread-2] File Contents: 7
+2022-04-11 10:14:10,625 INFO f.p.c.ScriptRunner [Thread-2] 8
+2022-04-11 10:14:10,625 INFO f.p.c.ScriptRunner [Thread-2] 9  Length= 5
+2022-04-11 10:16:27,215 INFO f.p.f.FTPClientImpl [main] FTP Connection Reply: 220
+2022-04-11 10:16:27,271 INFO f.p.c.ScriptRunner [Thread-2] Python Script Started
+2022-04-11 10:16:27,331 INFO f.p.c.ScriptRunner [Thread-2] Started Example Socket Script
+2022-04-11 10:16:29,381 INFO f.p.p.FileListener [pool-2-thread-1] initial Content: ^
+2022-04-11 10:19:34,123 INFO f.p.f.FTPClientImpl [main] FTP Connection Reply: 220
+2022-04-11 10:19:34,184 INFO f.p.c.ScriptRunner [Thread-2] Python Script Started
+2022-04-11 10:19:34,241 INFO f.p.c.ScriptRunner [Thread-2] Started Example Socket Script
+2022-04-11 10:19:34,791 INFO f.p.p.FileListener [pool-2-thread-1] initial Content: ^
+2022-04-11 10:19:36,769 INFO f.p.p.FileListener [pool-2-thread-1] Added: example1.dat
+2022-04-11 10:19:36,769 INFO f.p.p.FileListener [pool-2-thread-1] File complete, downloading.
+2022-04-11 10:19:36,769 INFO f.p.f.FTPClientImpl [pool-2-thread-1] Downloading file from C:/data\example1.dat, to C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example1.dat
+2022-04-11 10:19:36,790 INFO f.p.f.FTPClientImpl [pool-2-thread-1] streamString: java.io.FileOutputStream@a1bcc53
+2022-04-11 10:19:36,791 INFO f.p.f.FTPClientImpl [pool-2-thread-1] fos
+2022-04-11 10:19:36,852 INFO f.p.f.FTPClientImpl [pool-2-thread-1] retrieveFile
+2022-04-11 10:19:36,853 INFO f.p.q.FileQueue [pool-2-thread-1] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example1.dat
+2022-04-11 10:19:37,709 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example1.dat
+2022-04-11 10:19:37,712 INFO f.p.c.ScriptRunner [Thread-2] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example1.dat
+2022-04-11 10:19:37,712 INFO f.p.c.ScriptRunner [Thread-2] 
+2022-04-11 10:19:37,713 INFO f.p.c.ScriptRunner [Thread-2] 
+2022-04-11 10:19:37,716 INFO f.p.c.ScriptRunner [Thread-2] Sum= 6
+2022-04-11 10:19:37,716 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example1.dat
+2022-04-11 10:19:37,717 INFO f.p.c.ScriptRunner [Thread-2] File Contents: 1
+2022-04-11 10:19:37,717 INFO f.p.c.ScriptRunner [Thread-2] 2
+2022-04-11 10:19:37,718 INFO f.p.c.ScriptRunner [Thread-2] 3  Length= 5
+2022-04-11 10:19:42,771 INFO f.p.p.FileListener [pool-2-thread-1] Added: example2.dat
+2022-04-11 10:19:42,772 INFO f.p.p.FileListener [pool-2-thread-1] File complete, downloading.
+2022-04-11 10:19:42,772 INFO f.p.f.FTPClientImpl [pool-2-thread-1] Downloading file from C:/data\example2.dat, to C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example2.dat
+2022-04-11 10:19:42,804 INFO f.p.f.FTPClientImpl [pool-2-thread-1] streamString: java.io.FileOutputStream@36a10653
+2022-04-11 10:19:42,805 INFO f.p.f.FTPClientImpl [pool-2-thread-1] fos
+2022-04-11 10:19:42,864 INFO f.p.f.FTPClientImpl [pool-2-thread-1] retrieveFile
+2022-04-11 10:19:42,865 INFO f.p.q.FileQueue [pool-2-thread-1] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example2.dat
+2022-04-11 10:19:43,735 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example2.dat
+2022-04-11 10:19:43,736 INFO f.p.c.ScriptRunner [Thread-2] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example2.dat
+2022-04-11 10:19:43,737 INFO f.p.c.ScriptRunner [Thread-2] 
+2022-04-11 10:19:43,738 INFO f.p.c.ScriptRunner [Thread-2] 
+2022-04-11 10:19:43,739 INFO f.p.c.ScriptRunner [Thread-2] Sum= 15
+2022-04-11 10:19:43,739 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example2.dat
+2022-04-11 10:19:43,739 INFO f.p.c.ScriptRunner [Thread-2] File Contents: 4
+2022-04-11 10:19:43,740 INFO f.p.c.ScriptRunner [Thread-2] 5
+2022-04-11 10:19:43,740 INFO f.p.c.ScriptRunner [Thread-2] 6  Length= 5
+2022-04-11 10:19:46,751 INFO f.p.p.FileListener [pool-2-thread-1] Added: example3.dat
+2022-04-11 10:19:46,752 INFO f.p.p.FileListener [pool-2-thread-1] File complete, downloading.
+2022-04-11 10:19:46,752 INFO f.p.f.FTPClientImpl [pool-2-thread-1] Downloading file from C:/data\example3.dat, to C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example3.dat
+2022-04-11 10:19:46,781 INFO f.p.f.FTPClientImpl [pool-2-thread-1] streamString: java.io.FileOutputStream@bb7f672
+2022-04-11 10:19:46,781 INFO f.p.f.FTPClientImpl [pool-2-thread-1] fos
+2022-04-11 10:19:46,843 INFO f.p.f.FTPClientImpl [pool-2-thread-1] retrieveFile
+2022-04-11 10:19:46,843 INFO f.p.q.FileQueue [pool-2-thread-1] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example3.dat
+2022-04-11 10:19:47,749 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example3.dat
+2022-04-11 10:19:47,749 INFO f.p.c.ScriptRunner [Thread-2] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example3.dat
+2022-04-11 10:19:47,750 INFO f.p.c.ScriptRunner [Thread-2] 
+2022-04-11 10:19:47,750 INFO f.p.c.ScriptRunner [Thread-2] 
+2022-04-11 10:19:47,750 INFO f.p.c.ScriptRunner [Thread-2] Sum= 24
+2022-04-11 10:19:47,750 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.polling\src\test\resources\filestore\example3.dat
+2022-04-11 10:19:47,750 INFO f.p.c.ScriptRunner [Thread-2] File Contents: 7
+2022-04-11 10:19:47,751 INFO f.p.c.ScriptRunner [Thread-2] 8
+2022-04-11 10:19:47,751 INFO f.p.c.ScriptRunner [Thread-2] 9  Length= 5

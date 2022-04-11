@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+encoding//src/main/resources/mocktm.py=utf-8
+encoding//src/main/resources/tm_playback.py=utf-8
+encoding//src/test/resources/example_socket.py=utf-8

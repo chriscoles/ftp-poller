@@ -1,0 +1,21 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>ftp.poll</groupId>
+	<artifactId>ftp.poll</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<packaging>pom</packaging>
+
+	<modules>
+		<module>ftp.poll.mockftp</module>
+		<module>ftp.poll.ftp</module>
+		<module>ftp.poll.polling</module>
+		<module>ftp.poll.properties</module>
+		<module>ftp.poll.script</module>
+		<module>ftp.poll.queue</module>
+		<module>ftp.poll.application</module>
+		<module>ftp.poll.util</module>
+	</modules>
+	
+</project>

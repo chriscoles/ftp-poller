@@ -1,0 +1,820 @@
+2022-04-10 15:46:26,326 INFO f.p.q.FileQueue [main] Added file to queue: example.dat
+2022-04-10 15:47:19,983 INFO f.p.q.FileQueue [main] Added file to queue: example1.dat
+2022-04-10 15:47:19,987 INFO f.p.q.FileQueue [main] Added file to queue: example2.dat
+2022-04-10 15:47:19,987 INFO f.p.q.FileQueue [main] Added file to queue: example3.dat
+2022-04-10 15:51:28,476 INFO f.p.q.FileQueue [main] Added file to queue: example1.dat
+2022-04-10 15:51:28,479 INFO f.p.q.FileQueue [main] Added file to queue: example2.dat
+2022-04-10 15:51:28,479 INFO f.p.q.FileQueue [main] Added file to queue: example3.dat
+2022-04-10 15:51:29,479 INFO f.p.q.FileQueue [Timer] Queue: example1.dat
+2022-04-10 15:51:30,477 INFO f.p.q.FileQueue [Timer] Queue: example2.dat
+2022-04-10 15:51:31,478 INFO f.p.q.FileQueue [Timer] Queue: example3.dat
+2022-04-10 15:59:57,669 INFO f.p.q.FileQueue [main] Added file to queue: example1.dat
+2022-04-10 15:59:57,672 INFO f.p.q.FileQueue [main] Added file to queue: example2.dat
+2022-04-10 15:59:57,672 INFO f.p.q.FileQueue [main] Added file to queue: example3.dat
+2022-04-10 15:59:58,683 INFO f.p.q.FileQueue [Timer] Running Queued File: example1.dat
+2022-04-10 16:00:03,689 INFO f.p.q.FileQueue [Timer] Finished Queued File: example1.dat
+2022-04-10 16:00:03,689 INFO f.p.q.FileQueue [Timer] Running Queued File: example2.dat
+2022-04-10 16:00:08,699 INFO f.p.q.FileQueue [Timer] Finished Queued File: example2.dat
+2022-04-10 16:00:08,699 INFO f.p.q.FileQueue [Timer] Running Queued File: example3.dat
+2022-04-10 16:00:13,710 INFO f.p.q.FileQueue [Timer] Finished Queued File: example3.dat
+2022-04-10 16:11:40,847 INFO f.p.c.ScriptRunner [Thread-0] Python Script Started
+2022-04-10 16:11:40,901 INFO f.p.c.ScriptRunner [Thread-0] python: can't open file 'C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example_socket.py': [Errno 2] No such file or directory
+2022-04-10 16:11:40,905 INFO f.p.c.ScriptRunner [Thread-0] Python Script Finished
+2022-04-10 16:12:28,454 INFO f.p.c.ScriptRunner [Thread-0] Python Script Started
+2022-04-10 16:12:28,544 INFO f.p.c.ScriptRunner [Thread-0] python: can't open file 'C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example_socket.py': [Errno 2] No such file or directory
+2022-04-10 16:12:28,547 INFO f.p.c.ScriptRunner [Thread-0] Python Script Finished
+2022-04-10 16:14:47,752 INFO f.p.c.ScriptRunner [Thread-0] Python Script Started
+2022-04-10 16:14:47,821 INFO f.p.c.ScriptRunner [Thread-0] Started Example Socket Script
+2022-04-10 16:14:47,867 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 16:14:47,867 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 16:14:47,867 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 16:14:48,875 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 16:14:48,879 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 16:14:48,879 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 16:14:48,879 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 16:14:48,880 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 16:14:49,876 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 16:14:49,891 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 16:14:49,891 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 16:14:49,892 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 16:14:49,892 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 16:14:50,876 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 16:14:50,896 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 16:14:50,897 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 16:14:50,897 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 16:14:50,898 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 16:35:09,372 INFO f.p.c.ScriptRunner [Thread-0] Python Script Started
+2022-04-10 16:35:09,439 INFO f.p.c.ScriptRunner [Thread-0] Started Example Socket Script
+2022-04-10 16:35:09,484 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 16:35:09,484 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 16:35:09,484 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 16:35:10,491 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 16:35:10,492 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 16:35:10,492 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 16:35:10,493 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 16:35:10,493 INFO f.p.c.ScriptRunner [Thread-0] Traceback (most recent call last):
+2022-04-10 16:35:10,493 INFO f.p.c.ScriptRunner [Thread-0]   File "C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example_socket.py", line 30, in <module>
+2022-04-10 16:35:10,493 INFO f.p.c.ScriptRunner [Thread-0]     f = open(filename, "r")
+2022-04-10 16:35:10,493 INFO f.p.c.ScriptRunner [Thread-0] OSError: [Errno 22] Invalid argument: 'C:\\Users\\chris\\Desktop\\ftp-poller\\ftp.poll.queue\\src\\test\\resources\\example1.dat\r\n'
+2022-04-10 16:35:10,494 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 16:35:10,497 INFO f.p.c.ScriptRunner [Thread-0] Python Script Finished
+2022-04-10 16:35:11,492 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 16:35:11,493 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 16:35:12,492 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 16:35:12,494 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 16:36:03,014 INFO f.p.c.ScriptRunner [Thread-0] Python Script Started
+2022-04-10 16:36:03,085 INFO f.p.c.ScriptRunner [Thread-0] Started Example Socket Script
+2022-04-10 16:36:03,125 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 16:36:03,126 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 16:36:03,126 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 16:36:04,135 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 16:36:04,139 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 16:36:04,139 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 16:36:04,140 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 16:36:04,141 INFO f.p.c.ScriptRunner [Thread-0] Traceback (most recent call last):
+2022-04-10 16:36:04,141 INFO f.p.c.ScriptRunner [Thread-0]   File "C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example_socket.py", line 31, in <module>
+2022-04-10 16:36:04,142 INFO f.p.c.ScriptRunner [Thread-0]     f = open(filename, "r")
+2022-04-10 16:36:04,142 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 16:36:04,143 INFO f.p.c.ScriptRunner [Thread-0] OSError: [Errno 22] Invalid argument: 'C:\\Users\\chris\\Desktop\\ftp-poller\\ftp.poll.queue\\src\\test\\resources\\example1.dat\r\n'
+2022-04-10 16:36:04,149 INFO f.p.c.ScriptRunner [Thread-0] Python Script Finished
+2022-04-10 16:36:05,135 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 16:36:05,136 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 16:36:06,136 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 16:36:06,136 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 16:37:08,494 INFO f.p.c.ScriptRunner [Thread-0] Python Script Started
+2022-04-10 16:37:08,561 INFO f.p.c.ScriptRunner [Thread-0] Started Example Socket Script
+2022-04-10 16:37:08,611 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 16:37:08,611 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 16:37:08,611 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 16:37:09,610 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 16:37:09,613 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 16:37:09,613 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 16:37:09,614 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 16:37:09,614 INFO f.p.c.ScriptRunner [Thread-0] Traceback (most recent call last):
+2022-04-10 16:37:09,615 INFO f.p.c.ScriptRunner [Thread-0]   File "C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example_socket.py", line 31, in <module>
+2022-04-10 16:37:09,615 INFO f.p.c.ScriptRunner [Thread-0]     f = open(filename, "r")
+2022-04-10 16:37:09,616 INFO f.p.c.ScriptRunner [Thread-0] OSError: [Errno 22] Invalid argument: 'C:\\Users\\chris\\Desktop\\ftp-poller\\ftp.poll.queue\\src\\test\\resources\\example1.dat\r\n'
+2022-04-10 16:37:09,616 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 16:37:09,625 INFO f.p.c.ScriptRunner [Thread-0] Python Script Finished
+2022-04-10 16:37:10,610 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 16:37:10,611 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 16:37:11,610 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 16:37:11,612 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 16:39:16,983 INFO f.p.c.ScriptRunner [Thread-0] Python Script Started
+2022-04-10 16:39:17,050 INFO f.p.c.ScriptRunner [Thread-0] Started Example Socket Script
+2022-04-10 16:39:17,100 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 16:39:17,101 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 16:39:17,101 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 16:39:18,107 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 16:39:18,108 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 16:39:18,108 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 16:39:18,108 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 16:39:18,108 INFO f.p.c.ScriptRunner [Thread-0] Traceback (most recent call last):
+2022-04-10 16:39:18,108 INFO f.p.c.ScriptRunner [Thread-0]   File "C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example_socket.py", line 31, in <module>
+2022-04-10 16:39:18,108 INFO f.p.c.ScriptRunner [Thread-0]     f = open(filename, "r")
+2022-04-10 16:39:18,108 INFO f.p.c.ScriptRunner [Thread-0] OSError: [Errno 22] Invalid argument: 'C:\\Users\\chris\\Desktop\\ftp-poller\\ftp.poll.queue\\src\\test\\resources\\example1.dat\r\n'
+2022-04-10 16:39:18,109 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 16:39:18,111 INFO f.p.c.ScriptRunner [Thread-0] Python Script Finished
+2022-04-10 16:39:19,107 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 16:39:19,108 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 16:39:20,107 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 16:39:20,109 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 16:44:03,286 INFO f.p.c.ScriptRunner [Thread-0] Python Script Started
+2022-04-10 16:44:03,353 INFO f.p.c.ScriptRunner [Thread-0] Started Example Socket Script
+2022-04-10 16:44:03,405 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 16:44:03,405 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 16:44:03,406 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 16:44:04,415 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 16:44:04,418 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 16:44:04,418 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 16:44:04,419 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 16:44:04,419 INFO f.p.c.ScriptRunner [Thread-0] Traceback (most recent call last):
+2022-04-10 16:44:04,420 INFO f.p.c.ScriptRunner [Thread-0]   File "C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example_socket.py", line 31, in <module>
+2022-04-10 16:44:04,420 INFO f.p.c.ScriptRunner [Thread-0]     f = open(filename, "r")
+2022-04-10 16:44:04,421 INFO f.p.c.ScriptRunner [Thread-0] OSError: [Errno 22] Invalid argument: 'C:\\Users\\chris\\Desktop\\ftp-poller\\ftp.poll.queue\\src\\test\\resources\\example1.dat\r\n'
+2022-04-10 16:44:04,421 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 16:44:04,425 INFO f.p.c.ScriptRunner [Thread-0] Python Script Finished
+2022-04-10 16:44:05,416 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 16:44:05,416 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 16:44:06,416 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 16:44:06,418 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 16:44:16,989 INFO f.p.c.ScriptRunner [Thread-0] Python Script Started
+2022-04-10 16:44:17,060 INFO f.p.c.ScriptRunner [Thread-0] Started Example Socket Script
+2022-04-10 16:44:17,100 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 16:44:17,101 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 16:44:17,101 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 16:44:18,106 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 16:44:18,107 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 16:44:18,107 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 16:44:18,107 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 16:44:18,107 INFO f.p.c.ScriptRunner [Thread-0] Traceback (most recent call last):
+2022-04-10 16:44:18,107 INFO f.p.c.ScriptRunner [Thread-0]   File "C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example_socket.py", line 31, in <module>
+2022-04-10 16:44:18,108 INFO f.p.c.ScriptRunner [Thread-0]     f = open(filename, "r")
+2022-04-10 16:44:18,108 INFO f.p.c.ScriptRunner [Thread-0] OSError: [Errno 22] Invalid argument: 'C:\\Users\\chris\\Desktop\\ftp-poller\\ftp.poll.queue\\src\\test\\resources\\example1.dat\r\n'
+2022-04-10 16:44:18,108 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 16:44:18,111 INFO f.p.c.ScriptRunner [Thread-0] Python Script Finished
+2022-04-10 16:44:19,107 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 16:44:19,107 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 16:44:20,120 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 16:44:20,122 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 16:47:10,702 INFO f.p.c.ScriptRunner [Thread-0] Python Script Started
+2022-04-10 16:47:10,766 INFO f.p.c.ScriptRunner [Thread-0] Started Example Socket Script
+2022-04-10 16:47:10,812 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 16:47:10,812 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 16:47:10,812 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 16:47:11,810 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 16:47:11,813 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 16:47:11,813 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 16:47:11,814 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 16:47:11,814 INFO f.p.c.ScriptRunner [Thread-0] Traceback (most recent call last):
+2022-04-10 16:47:11,815 INFO f.p.c.ScriptRunner [Thread-0]   File "C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example_socket.py", line 30, in <module>
+2022-04-10 16:47:11,816 INFO f.p.c.ScriptRunner [Thread-0]     f = open(rfilename, "r")
+2022-04-10 16:47:11,816 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 16:47:11,816 INFO f.p.c.ScriptRunner [Thread-0] NameError: name 'rfilename' is not defined
+2022-04-10 16:47:11,820 INFO f.p.c.ScriptRunner [Thread-0] Python Script Finished
+2022-04-10 16:47:12,811 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 16:47:12,812 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 16:47:13,811 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 16:47:13,813 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 16:49:43,639 INFO f.p.c.ScriptRunner [Thread-0] Python Script Started
+2022-04-10 16:49:43,703 INFO f.p.c.ScriptRunner [Thread-0] Started Example Socket Script
+2022-04-10 16:49:43,763 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 16:49:43,764 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 16:49:43,765 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 16:49:44,757 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 16:49:44,760 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 16:49:44,760 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 16:49:44,760 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 16:49:44,761 INFO f.p.c.ScriptRunner [Thread-0] Traceback (most recent call last):
+2022-04-10 16:49:44,761 INFO f.p.c.ScriptRunner [Thread-0]   File "C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example_socket.py", line 31, in <module>
+2022-04-10 16:49:44,762 INFO f.p.c.ScriptRunner [Thread-0]     f = open(filename, "r")
+2022-04-10 16:49:44,762 INFO f.p.c.ScriptRunner [Thread-0] OSError: [Errno 22] Invalid argument: 'C:\\Users\\chris\\Desktop\\ftp-poller\\ftp.poll.queue\\src\\test\\resources\\example1.dat\r\n'
+2022-04-10 16:49:44,762 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 16:49:44,768 INFO f.p.c.ScriptRunner [Thread-0] Python Script Finished
+2022-04-10 16:49:45,758 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 16:49:45,758 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 16:49:46,758 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 16:49:46,760 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 16:50:26,730 INFO f.p.c.ScriptRunner [Thread-0] Python Script Started
+2022-04-10 16:50:26,798 INFO f.p.c.ScriptRunner [Thread-0] Started Example Socket Script
+2022-04-10 16:50:26,848 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 16:50:26,849 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 16:50:26,849 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 16:50:27,857 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 16:50:27,861 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 16:50:27,862 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 16:50:27,862 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 16:50:27,863 INFO f.p.c.ScriptRunner [Thread-0] Traceback (most recent call last):
+2022-04-10 16:50:27,863 INFO f.p.c.ScriptRunner [Thread-0]   File "C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example_socket.py", line 31, in <module>
+2022-04-10 16:50:27,864 INFO f.p.c.ScriptRunner [Thread-0]     f = open(filename, "r")
+2022-04-10 16:50:27,864 INFO f.p.c.ScriptRunner [Thread-0] OSError: [Errno 22] Invalid argument: 'C:\\Users\\chris\\Desktop\\ftp-poller\\ftp.poll.queue\\src\\test\\resources\\example1.dat\r\n'
+2022-04-10 16:50:27,865 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 16:50:27,874 INFO f.p.c.ScriptRunner [Thread-0] Python Script Finished
+2022-04-10 16:50:28,862 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 16:50:28,863 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 16:50:29,863 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 16:50:29,865 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 16:50:46,275 INFO f.p.c.ScriptRunner [Thread-0] Python Script Started
+2022-04-10 16:50:46,337 INFO f.p.c.ScriptRunner [Thread-0] Started Example Socket Script
+2022-04-10 16:50:46,383 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 16:50:46,383 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 16:50:46,384 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 16:50:47,391 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 16:50:47,395 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 16:50:47,396 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 16:50:47,396 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 16:50:47,400 INFO f.p.c.ScriptRunner [Thread-0] File Contents:1
+2022-04-10 16:50:47,400 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 16:50:47,401 INFO f.p.c.ScriptRunner [Thread-0] 2
+2022-04-10 16:50:47,402 INFO f.p.c.ScriptRunner [Thread-0] 3
+2022-04-10 16:50:48,391 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 16:50:48,404 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 16:50:48,406 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 16:50:48,406 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 16:50:48,407 INFO f.p.c.ScriptRunner [Thread-0] File Contents:4
+2022-04-10 16:50:48,407 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 16:50:48,407 INFO f.p.c.ScriptRunner [Thread-0] 5
+2022-04-10 16:50:48,408 INFO f.p.c.ScriptRunner [Thread-0] 6
+2022-04-10 16:50:49,392 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 16:50:49,421 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 16:50:49,422 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 16:50:49,423 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 16:50:49,424 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 16:50:49,425 INFO f.p.c.ScriptRunner [Thread-0] File Contents:7
+2022-04-10 16:50:49,425 INFO f.p.c.ScriptRunner [Thread-0] 8
+2022-04-10 16:50:49,426 INFO f.p.c.ScriptRunner [Thread-0] 9
+2022-04-10 16:53:00,239 INFO f.p.c.ScriptRunner [Thread-0] Python Script Started
+2022-04-10 16:53:00,304 INFO f.p.c.ScriptRunner [Thread-0] Started Example Socket Script
+2022-04-10 16:53:00,347 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 16:53:00,348 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 16:53:00,348 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 16:53:01,354 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 16:53:01,356 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 16:53:01,357 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 16:53:01,357 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 16:53:01,358 INFO f.p.c.ScriptRunner [Thread-0] File Contents:1
+2022-04-10 16:53:01,358 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 16:53:01,358 INFO f.p.c.ScriptRunner [Thread-0] 2
+2022-04-10 16:53:01,359 INFO f.p.c.ScriptRunner [Thread-0] 3
+2022-04-10 16:53:02,354 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 16:53:02,373 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 16:53:02,374 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 16:53:02,374 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 16:53:02,374 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 16:53:02,375 INFO f.p.c.ScriptRunner [Thread-0] File Contents:4
+2022-04-10 16:53:02,375 INFO f.p.c.ScriptRunner [Thread-0] 5
+2022-04-10 16:53:02,377 INFO f.p.c.ScriptRunner [Thread-0] 6
+2022-04-10 16:53:03,354 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 16:53:03,387 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 16:53:03,387 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 16:53:03,387 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 16:53:03,387 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 16:53:03,388 INFO f.p.c.ScriptRunner [Thread-0] File Contents:7
+2022-04-10 16:53:03,388 INFO f.p.c.ScriptRunner [Thread-0] 8
+2022-04-10 16:53:03,388 INFO f.p.c.ScriptRunner [Thread-0] 9
+2022-04-10 16:53:37,877 INFO f.p.c.ScriptRunner [Thread-0] Python Script Started
+2022-04-10 16:53:37,942 INFO f.p.c.ScriptRunner [Thread-0] Started Example Socket Script
+2022-04-10 16:53:37,996 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 16:53:37,996 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 16:53:37,996 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 16:53:39,004 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 16:53:39,007 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 16:53:39,008 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 16:53:39,008 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 16:53:39,010 INFO f.p.c.ScriptRunner [Thread-0] File Contents:1
+2022-04-10 16:53:39,010 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 16:53:39,011 INFO f.p.c.ScriptRunner [Thread-0] 2
+2022-04-10 16:53:39,011 INFO f.p.c.ScriptRunner [Thread-0] 3
+2022-04-10 16:53:40,005 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 16:53:40,019 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 16:53:40,019 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 16:53:40,019 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 16:53:40,019 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 16:53:40,019 INFO f.p.c.ScriptRunner [Thread-0] File Contents:4
+2022-04-10 16:53:40,020 INFO f.p.c.ScriptRunner [Thread-0] 5
+2022-04-10 16:53:40,020 INFO f.p.c.ScriptRunner [Thread-0] 6
+2022-04-10 16:53:41,005 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 16:53:41,020 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 16:53:41,019 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 16:53:41,021 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 16:53:41,022 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 16:53:41,023 INFO f.p.c.ScriptRunner [Thread-0] File Contents:7
+2022-04-10 16:53:41,024 INFO f.p.c.ScriptRunner [Thread-0] 8
+2022-04-10 16:53:41,024 INFO f.p.c.ScriptRunner [Thread-0] 9
+2022-04-10 16:55:07,842 INFO f.p.c.ScriptRunner [Thread-0] Python Script Started
+2022-04-10 16:55:07,909 INFO f.p.c.ScriptRunner [Thread-0] Started Example Socket Script
+2022-04-10 16:55:07,951 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 16:55:28,159 INFO f.p.c.ScriptRunner [Thread-0] Python Script Started
+2022-04-10 16:55:28,263 INFO f.p.c.ScriptRunner [Thread-0] Started Example Socket Script
+2022-04-10 16:55:28,280 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 16:55:29,287 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 16:55:29,288 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 16:55:29,288 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 16:55:29,289 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 16:55:29,289 INFO f.p.c.ScriptRunner [Thread-0] File Contents:1
+2022-04-10 16:55:29,290 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 16:55:29,290 INFO f.p.c.ScriptRunner [Thread-0] 2
+2022-04-10 16:55:29,290 INFO f.p.c.ScriptRunner [Thread-0] 3
+2022-04-10 17:02:00,360 INFO f.p.c.ScriptRunner [Thread-0] Python Script Started
+2022-04-10 17:02:00,461 INFO f.p.c.ScriptRunner [Thread-0] Started Example Socket Script
+2022-04-10 17:02:00,474 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:02:01,479 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:02:01,485 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:02:01,486 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:02:01,487 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:02:01,488 INFO f.p.c.ScriptRunner [Thread-0] File Contents:1
+2022-04-10 17:02:01,488 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:02:01,488 INFO f.p.c.ScriptRunner [Thread-0] 2
+2022-04-10 17:02:01,488 INFO f.p.c.ScriptRunner [Thread-0] 3
+2022-04-10 17:02:35,403 INFO f.p.c.ScriptRunner [Thread-0] Python Script Started
+2022-04-10 17:02:35,496 INFO f.p.c.ScriptRunner [Thread-0] Started Example Socket Script
+2022-04-10 17:02:35,516 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:02:36,514 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:02:36,516 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:02:36,517 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:02:36,517 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:02:36,520 INFO f.p.c.ScriptRunner [Thread-0] File Contents:1
+2022-04-10 17:02:36,520 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:02:36,520 INFO f.p.c.ScriptRunner [Thread-0] 2
+2022-04-10 17:02:36,521 INFO f.p.c.ScriptRunner [Thread-0] 3
+2022-04-10 17:03:24,827 INFO f.p.c.ScriptRunner [Thread-0] Python Script Started
+2022-04-10 17:03:24,903 INFO f.p.c.ScriptRunner [Thread-0] Started Example Socket Script
+2022-04-10 17:03:24,962 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:03:25,960 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:03:25,961 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:03:25,961 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:03:25,961 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:03:25,962 INFO f.p.c.ScriptRunner [Thread-0] File Contents:1
+2022-04-10 17:03:25,962 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:03:25,962 INFO f.p.c.ScriptRunner [Thread-0] 2
+2022-04-10 17:03:25,962 INFO f.p.c.ScriptRunner [Thread-0] 3
+2022-04-10 17:04:02,499 INFO f.p.c.ScriptRunner [Thread-0] Python Script Started
+2022-04-10 17:04:02,588 INFO f.p.c.ScriptRunner [Thread-0] Started Example Socket Script
+2022-04-10 17:04:02,606 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:04:03,619 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:04:03,620 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:04:03,621 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:04:03,621 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:04:03,622 INFO f.p.c.ScriptRunner [Thread-0] File Contents:1
+2022-04-10 17:04:03,622 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:04:03,622 INFO f.p.c.ScriptRunner [Thread-0] 2
+2022-04-10 17:04:03,622 INFO f.p.c.ScriptRunner [Thread-0] 3
+2022-04-10 17:04:04,622 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 17:04:05,628 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 17:04:05,629 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 17:04:05,630 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:04:05,630 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 17:04:05,630 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:04:05,631 INFO f.p.c.ScriptRunner [Thread-0] File Contents:4
+2022-04-10 17:04:05,631 INFO f.p.c.ScriptRunner [Thread-0] 5
+2022-04-10 17:04:05,632 INFO f.p.c.ScriptRunner [Thread-0] 6
+2022-04-10 17:04:06,634 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 17:04:07,633 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 17:04:07,634 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 17:04:07,635 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:04:07,635 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 17:04:07,635 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:04:07,636 INFO f.p.c.ScriptRunner [Thread-0] File Contents:7
+2022-04-10 17:04:07,636 INFO f.p.c.ScriptRunner [Thread-0] 8
+2022-04-10 17:04:07,637 INFO f.p.c.ScriptRunner [Thread-0] 9
+2022-04-10 17:04:33,780 INFO f.p.c.ScriptRunner [Thread-0] Python Script Started
+2022-04-10 17:04:33,852 INFO f.p.c.ScriptRunner [Thread-0] Started Example Socket Script
+2022-04-10 17:04:33,897 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:04:39,254 INFO f.p.c.ScriptRunner [Thread-0] Python Script Started
+2022-04-10 17:04:39,341 INFO f.p.c.ScriptRunner [Thread-0] Started Example Socket Script
+2022-04-10 17:04:39,371 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:04:40,383 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:04:40,384 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:04:40,384 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:04:40,384 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:04:40,385 INFO f.p.c.ScriptRunner [Thread-0] File Contents:1
+2022-04-10 17:04:40,385 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:04:40,385 INFO f.p.c.ScriptRunner [Thread-0] 2
+2022-04-10 17:04:40,385 INFO f.p.c.ScriptRunner [Thread-0] 3
+2022-04-10 17:04:41,385 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 17:04:42,388 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 17:04:42,390 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 17:04:42,391 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:04:42,391 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 17:04:42,391 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:04:42,392 INFO f.p.c.ScriptRunner [Thread-0] File Contents:4
+2022-04-10 17:04:42,392 INFO f.p.c.ScriptRunner [Thread-0] 5
+2022-04-10 17:04:42,392 INFO f.p.c.ScriptRunner [Thread-0] 6
+2022-04-10 17:04:43,394 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 17:04:44,398 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 17:04:44,399 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 17:04:44,400 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:04:44,400 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 17:04:44,400 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:04:44,401 INFO f.p.c.ScriptRunner [Thread-0] File Contents:7
+2022-04-10 17:04:44,401 INFO f.p.c.ScriptRunner [Thread-0] 8
+2022-04-10 17:04:44,402 INFO f.p.c.ScriptRunner [Thread-0] 9
+2022-04-10 17:07:10,405 INFO f.p.c.ScriptRunner [Thread-0] Python Script Started
+2022-04-10 17:07:10,469 INFO f.p.c.ScriptRunner [Thread-0] Started Example Socket Script
+2022-04-10 17:07:10,511 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:07:11,513 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:07:11,516 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:07:11,517 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:07:11,517 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:07:11,519 INFO f.p.c.ScriptRunner [Thread-0] Traceback (most recent call last):
+2022-04-10 17:07:11,520 INFO f.p.c.ScriptRunner [Thread-0]   File "C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example_socket.py", line 35, in <module>
+2022-04-10 17:07:11,521 INFO f.p.c.ScriptRunner [Thread-0]     sum+=line
+2022-04-10 17:07:11,521 INFO f.p.c.ScriptRunner [Thread-0] TypeError: unsupported operand type(s) for +=: 'int' and 'str'
+2022-04-10 17:07:11,522 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:07:11,530 INFO f.p.c.ScriptRunner [Thread-0] Python Script Finished
+2022-04-10 17:07:12,519 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 17:07:13,518 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 17:07:13,519 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 17:07:34,820 INFO f.p.c.ScriptRunner [Thread-0] Python Script Started
+2022-04-10 17:07:34,878 INFO f.p.c.ScriptRunner [Thread-0] Started Example Socket Script
+2022-04-10 17:07:34,937 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:07:35,947 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:07:35,950 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:07:35,951 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:07:35,952 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:07:35,954 INFO f.p.c.ScriptRunner [Thread-0] Traceback (most recent call last):
+2022-04-10 17:07:35,954 INFO f.p.c.ScriptRunner [Thread-0]   File "C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example_socket.py", line 35, in <module>
+2022-04-10 17:07:35,955 INFO f.p.c.ScriptRunner [Thread-0]     sum+=int(line)
+2022-04-10 17:07:35,955 INFO f.p.c.ScriptRunner [Thread-0] ValueError: invalid literal for int() with base 10: '\n'
+2022-04-10 17:07:35,957 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:07:35,960 INFO f.p.c.ScriptRunner [Thread-0] Python Script Finished
+2022-04-10 17:07:36,949 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 17:07:37,947 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 17:07:37,948 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 17:08:04,483 INFO f.p.c.ScriptRunner [Thread-0] Python Script Started
+2022-04-10 17:08:04,547 INFO f.p.c.ScriptRunner [Thread-0] Started Example Socket Script
+2022-04-10 17:08:04,614 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:08:05,610 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:08:05,613 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:08:05,613 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:08:05,614 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:08:05,617 INFO f.p.c.ScriptRunner [Thread-0] Line: 1
+2022-04-10 17:08:05,617 INFO f.p.c.ScriptRunner [Thread-0] Line: 
+2022-04-10 17:08:05,618 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:08:05,618 INFO f.p.c.ScriptRunner [Thread-0] Line: 2
+2022-04-10 17:08:05,619 INFO f.p.c.ScriptRunner [Thread-0] Line: 
+2022-04-10 17:08:05,619 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:08:05,619 INFO f.p.c.ScriptRunner [Thread-0] Line: 3
+2022-04-10 17:08:05,620 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:08:05,621 INFO f.p.c.ScriptRunner [Thread-0] Traceback (most recent call last):
+2022-04-10 17:08:05,621 INFO f.p.c.ScriptRunner [Thread-0]   File "C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example_socket.py", line 37, in <module>
+2022-04-10 17:08:05,622 INFO f.p.c.ScriptRunner [Thread-0]     print("Sum="+sum)
+2022-04-10 17:08:05,623 INFO f.p.c.ScriptRunner [Thread-0] TypeError: can only concatenate str (not "int") to str
+2022-04-10 17:08:05,629 INFO f.p.c.ScriptRunner [Thread-0] Python Script Finished
+2022-04-10 17:08:06,617 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 17:08:07,614 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 17:08:07,615 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 17:11:23,665 INFO f.p.c.ScriptRunner [Thread-0] Python Script Started
+2022-04-10 17:11:23,734 INFO f.p.c.ScriptRunner [Thread-0] Started Example Socket Script
+2022-04-10 17:11:23,783 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:11:24,793 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:11:24,794 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:11:24,794 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:11:24,794 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:11:24,795 INFO f.p.c.ScriptRunner [Thread-0] Line: 1
+2022-04-10 17:11:24,795 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:11:24,795 INFO f.p.c.ScriptRunner [Thread-0] Line: 
+2022-04-10 17:11:24,795 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:11:24,796 INFO f.p.c.ScriptRunner [Thread-0] Line: 2
+2022-04-10 17:11:24,796 INFO f.p.c.ScriptRunner [Thread-0] Line: 
+2022-04-10 17:11:24,796 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:11:24,796 INFO f.p.c.ScriptRunner [Thread-0] Line: 3
+2022-04-10 17:11:24,796 INFO f.p.c.ScriptRunner [Thread-0] Sum= 0
+2022-04-10 17:11:24,796 INFO f.p.c.ScriptRunner [Thread-0] File Contents: 1
+2022-04-10 17:11:24,796 INFO f.p.c.ScriptRunner [Thread-0] 2
+2022-04-10 17:11:24,797 INFO f.p.c.ScriptRunner [Thread-0] 3
+2022-04-10 17:11:25,793 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 17:11:26,799 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 17:11:26,799 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 17:11:26,799 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:11:26,800 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:11:26,800 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 17:11:26,800 INFO f.p.c.ScriptRunner [Thread-0] Line: 4
+2022-04-10 17:11:26,800 INFO f.p.c.ScriptRunner [Thread-0] Line: 
+2022-04-10 17:11:26,800 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:11:26,800 INFO f.p.c.ScriptRunner [Thread-0] Line: 5
+2022-04-10 17:11:26,800 INFO f.p.c.ScriptRunner [Thread-0] Line: 
+2022-04-10 17:11:26,800 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:11:26,800 INFO f.p.c.ScriptRunner [Thread-0] Line: 6
+2022-04-10 17:11:26,801 INFO f.p.c.ScriptRunner [Thread-0] Sum= 0
+2022-04-10 17:11:26,801 INFO f.p.c.ScriptRunner [Thread-0] File Contents: 4
+2022-04-10 17:11:26,801 INFO f.p.c.ScriptRunner [Thread-0] 5
+2022-04-10 17:11:26,801 INFO f.p.c.ScriptRunner [Thread-0] 6
+2022-04-10 17:11:27,799 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 17:11:28,813 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 17:11:28,814 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 17:11:28,814 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:11:28,814 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 17:11:28,815 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:11:28,815 INFO f.p.c.ScriptRunner [Thread-0] Line: 7
+2022-04-10 17:11:28,816 INFO f.p.c.ScriptRunner [Thread-0] Line: 
+2022-04-10 17:11:28,816 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:11:28,817 INFO f.p.c.ScriptRunner [Thread-0] Line: 8
+2022-04-10 17:11:28,817 INFO f.p.c.ScriptRunner [Thread-0] Line: 
+2022-04-10 17:11:28,817 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:11:28,818 INFO f.p.c.ScriptRunner [Thread-0] Line: 9
+2022-04-10 17:11:28,818 INFO f.p.c.ScriptRunner [Thread-0] Sum= 0
+2022-04-10 17:11:28,819 INFO f.p.c.ScriptRunner [Thread-0] File Contents: 7
+2022-04-10 17:11:28,819 INFO f.p.c.ScriptRunner [Thread-0] 8
+2022-04-10 17:11:28,819 INFO f.p.c.ScriptRunner [Thread-0] 9
+2022-04-10 17:11:42,924 INFO f.p.c.ScriptRunner [Thread-0] Python Script Started
+2022-04-10 17:11:42,984 INFO f.p.c.ScriptRunner [Thread-0] Started Example Socket Script
+2022-04-10 17:11:43,036 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:11:44,049 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:11:44,050 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:11:44,050 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:11:44,050 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:11:44,051 INFO f.p.c.ScriptRunner [Thread-0] Line: 1
+2022-04-10 17:11:44,051 INFO f.p.c.ScriptRunner [Thread-0] Traceback (most recent call last):
+2022-04-10 17:11:44,051 INFO f.p.c.ScriptRunner [Thread-0]   File "C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example_socket.py", line 35, in <module>
+2022-04-10 17:11:44,051 INFO f.p.c.ScriptRunner [Thread-0]     sum+=int(line)
+2022-04-10 17:11:44,051 INFO f.p.c.ScriptRunner [Thread-0] ValueError: invalid literal for int() with base 10: '\n'
+2022-04-10 17:11:44,052 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:11:44,054 INFO f.p.c.ScriptRunner [Thread-0] Python Script Finished
+2022-04-10 17:11:45,054 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 17:11:46,064 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 17:11:46,065 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 17:12:17,112 INFO f.p.c.ScriptRunner [Thread-0] Python Script Started
+2022-04-10 17:12:17,171 INFO f.p.c.ScriptRunner [Thread-0] Started Example Socket Script
+2022-04-10 17:12:17,218 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:12:18,230 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:12:18,233 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:12:18,234 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:12:18,234 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:12:18,237 INFO f.p.c.ScriptRunner [Thread-0] Line: 1
+2022-04-10 17:12:18,237 INFO f.p.c.ScriptRunner [Thread-0] Traceback (most recent call last):
+2022-04-10 17:12:18,238 INFO f.p.c.ScriptRunner [Thread-0]   File "C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example_socket.py", line 35, in <module>
+2022-04-10 17:12:18,239 INFO f.p.c.ScriptRunner [Thread-0]     sum+=int(line)
+2022-04-10 17:12:18,239 INFO f.p.c.ScriptRunner [Thread-0] ValueError: invalid literal for int() with base 10: '\n'
+2022-04-10 17:12:18,240 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:12:18,243 INFO f.p.c.ScriptRunner [Thread-0] Python Script Finished
+2022-04-10 17:12:19,220 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 17:12:19,230 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 17:12:19,230 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 17:12:49,800 INFO f.p.c.ScriptRunner [Thread-0] Python Script Started
+2022-04-10 17:12:49,868 INFO f.p.c.ScriptRunner [Thread-0] Started Example Socket Script
+2022-04-10 17:12:49,931 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:12:50,930 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:12:50,933 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:12:50,934 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:12:50,934 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:12:50,937 INFO f.p.c.ScriptRunner [Thread-0] Line: 1
+2022-04-10 17:12:50,937 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:12:50,937 INFO f.p.c.ScriptRunner [Thread-0] Line: 
+2022-04-10 17:12:50,938 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:12:50,938 INFO f.p.c.ScriptRunner [Thread-0] Line: 2
+2022-04-10 17:12:50,939 INFO f.p.c.ScriptRunner [Thread-0] Line: 
+2022-04-10 17:12:50,939 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:12:50,940 INFO f.p.c.ScriptRunner [Thread-0] Line: 3
+2022-04-10 17:12:50,940 INFO f.p.c.ScriptRunner [Thread-0] Sum= 0
+2022-04-10 17:12:50,941 INFO f.p.c.ScriptRunner [Thread-0] File Contents: 1
+2022-04-10 17:12:50,941 INFO f.p.c.ScriptRunner [Thread-0] 2
+2022-04-10 17:12:50,941 INFO f.p.c.ScriptRunner [Thread-0] 3  Length= 5
+2022-04-10 17:12:51,947 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 17:12:52,935 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 17:12:52,936 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 17:12:52,937 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:12:52,937 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 17:12:52,938 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:12:52,938 INFO f.p.c.ScriptRunner [Thread-0] Line: 4
+2022-04-10 17:12:52,939 INFO f.p.c.ScriptRunner [Thread-0] Line: 
+2022-04-10 17:12:52,939 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:12:52,939 INFO f.p.c.ScriptRunner [Thread-0] Line: 5
+2022-04-10 17:12:52,940 INFO f.p.c.ScriptRunner [Thread-0] Line: 
+2022-04-10 17:12:52,940 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:12:52,941 INFO f.p.c.ScriptRunner [Thread-0] Line: 6
+2022-04-10 17:12:52,941 INFO f.p.c.ScriptRunner [Thread-0] Sum= 0
+2022-04-10 17:12:52,941 INFO f.p.c.ScriptRunner [Thread-0] File Contents: 4
+2022-04-10 17:12:52,941 INFO f.p.c.ScriptRunner [Thread-0] 5
+2022-04-10 17:12:52,941 INFO f.p.c.ScriptRunner [Thread-0] 6  Length= 5
+2022-04-10 17:12:53,953 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 17:12:54,940 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 17:12:54,941 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 17:12:54,942 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:12:54,942 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 17:12:54,943 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:12:54,944 INFO f.p.c.ScriptRunner [Thread-0] Line: 7
+2022-04-10 17:12:54,944 INFO f.p.c.ScriptRunner [Thread-0] Line: 
+2022-04-10 17:12:54,945 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:12:54,945 INFO f.p.c.ScriptRunner [Thread-0] Line: 8
+2022-04-10 17:12:54,946 INFO f.p.c.ScriptRunner [Thread-0] Line: 
+2022-04-10 17:12:54,946 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:12:54,946 INFO f.p.c.ScriptRunner [Thread-0] Line: 9
+2022-04-10 17:12:54,946 INFO f.p.c.ScriptRunner [Thread-0] Sum= 0
+2022-04-10 17:12:54,946 INFO f.p.c.ScriptRunner [Thread-0] File Contents: 7
+2022-04-10 17:12:54,946 INFO f.p.c.ScriptRunner [Thread-0] 8
+2022-04-10 17:12:54,946 INFO f.p.c.ScriptRunner [Thread-0] 9  Length= 5
+2022-04-10 17:13:58,904 INFO f.p.c.ScriptRunner [Thread-0] Python Script Started
+2022-04-10 17:13:58,967 INFO f.p.c.ScriptRunner [Thread-0] Started Example Socket Script
+2022-04-10 17:13:59,035 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:14:00,032 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:14:00,033 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:14:00,033 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:14:00,033 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:14:00,034 INFO f.p.c.ScriptRunner [Thread-0] Traceback (most recent call last):
+2022-04-10 17:14:00,034 INFO f.p.c.ScriptRunner [Thread-0]   File "C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example_socket.py", line 35, in <module>
+2022-04-10 17:14:00,034 INFO f.p.c.ScriptRunner [Thread-0]     if line.isDigit():
+2022-04-10 17:14:00,035 INFO f.p.c.ScriptRunner [Thread-0] AttributeError: 'str' object has no attribute 'isDigit'
+2022-04-10 17:14:00,035 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:14:00,038 INFO f.p.c.ScriptRunner [Thread-0] Python Script Finished
+2022-04-10 17:14:01,046 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 17:14:02,046 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 17:14:02,047 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 17:15:48,639 INFO f.p.c.ScriptRunner [Thread-0] Python Script Started
+2022-04-10 17:15:48,731 INFO f.p.c.ScriptRunner [Thread-0] Started Example Socket Script
+2022-04-10 17:15:48,750 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:15:49,760 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:15:49,763 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:15:49,764 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:15:49,764 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:15:49,767 INFO f.p.c.ScriptRunner [Thread-0] Line: 1
+2022-04-10 17:15:49,767 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:15:49,767 INFO f.p.c.ScriptRunner [Thread-0] Line: 
+2022-04-10 17:15:49,768 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:15:49,769 INFO f.p.c.ScriptRunner [Thread-0] Line: 2
+2022-04-10 17:15:49,769 INFO f.p.c.ScriptRunner [Thread-0] Line: 
+2022-04-10 17:15:49,769 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:15:49,770 INFO f.p.c.ScriptRunner [Thread-0] Line: 3
+2022-04-10 17:15:49,770 INFO f.p.c.ScriptRunner [Thread-0] Sum= 6
+2022-04-10 17:15:49,771 INFO f.p.c.ScriptRunner [Thread-0] File Contents: 1
+2022-04-10 17:15:49,771 INFO f.p.c.ScriptRunner [Thread-0] 2
+2022-04-10 17:15:49,771 INFO f.p.c.ScriptRunner [Thread-0] 3  Length= 5
+2022-04-10 17:15:50,764 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 17:15:51,767 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 17:15:51,767 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 17:15:51,768 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:15:51,768 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 17:15:51,769 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:15:51,769 INFO f.p.c.ScriptRunner [Thread-0] Line: 4
+2022-04-10 17:15:51,770 INFO f.p.c.ScriptRunner [Thread-0] Line: 
+2022-04-10 17:15:51,771 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:15:51,771 INFO f.p.c.ScriptRunner [Thread-0] Line: 5
+2022-04-10 17:15:51,772 INFO f.p.c.ScriptRunner [Thread-0] Line: 
+2022-04-10 17:15:51,772 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:15:51,773 INFO f.p.c.ScriptRunner [Thread-0] Line: 6
+2022-04-10 17:15:51,774 INFO f.p.c.ScriptRunner [Thread-0] Sum= 15
+2022-04-10 17:15:51,774 INFO f.p.c.ScriptRunner [Thread-0] File Contents: 4
+2022-04-10 17:15:51,775 INFO f.p.c.ScriptRunner [Thread-0] 5
+2022-04-10 17:15:51,775 INFO f.p.c.ScriptRunner [Thread-0] 6  Length= 5
+2022-04-10 17:15:52,771 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 17:15:53,770 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 17:15:53,771 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 17:15:53,772 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:15:53,772 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 17:15:53,773 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:15:53,773 INFO f.p.c.ScriptRunner [Thread-0] Line: 7
+2022-04-10 17:15:53,774 INFO f.p.c.ScriptRunner [Thread-0] Line: 
+2022-04-10 17:15:53,774 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:15:53,774 INFO f.p.c.ScriptRunner [Thread-0] Line: 8
+2022-04-10 17:15:53,775 INFO f.p.c.ScriptRunner [Thread-0] Line: 
+2022-04-10 17:15:53,775 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:15:53,775 INFO f.p.c.ScriptRunner [Thread-0] Line: 9
+2022-04-10 17:15:53,776 INFO f.p.c.ScriptRunner [Thread-0] Sum= 24
+2022-04-10 17:15:53,776 INFO f.p.c.ScriptRunner [Thread-0] File Contents: 7
+2022-04-10 17:15:53,776 INFO f.p.c.ScriptRunner [Thread-0] 8
+2022-04-10 17:15:53,777 INFO f.p.c.ScriptRunner [Thread-0] 9  Length= 5
+2022-04-10 17:18:29,010 INFO f.p.c.ScriptRunner [Thread-0] Python Script Started
+2022-04-10 17:18:29,074 INFO f.p.c.ScriptRunner [Thread-0] Started Example Socket Script
+2022-04-10 17:18:29,116 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:18:30,124 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:18:30,125 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:18:30,126 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:18:30,126 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:18:30,127 INFO f.p.c.ScriptRunner [Thread-0] Sum= 6
+2022-04-10 17:18:30,128 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:18:30,128 INFO f.p.c.ScriptRunner [Thread-0] File Contents: 1
+2022-04-10 17:18:30,128 INFO f.p.c.ScriptRunner [Thread-0] 2
+2022-04-10 17:18:30,128 INFO f.p.c.ScriptRunner [Thread-0] 3  Length= 5
+2022-04-10 17:19:00,883 INFO f.p.c.ScriptRunner [Thread-0] Python Script Started
+2022-04-10 17:19:00,986 INFO f.p.c.ScriptRunner [Thread-0] Started Example Socket Script
+2022-04-10 17:19:01,004 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:19:02,003 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:19:02,005 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:19:02,005 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:19:02,006 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:19:02,008 INFO f.p.c.ScriptRunner [Thread-0] Sum= 6
+2022-04-10 17:19:02,008 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:19:02,008 INFO f.p.c.ScriptRunner [Thread-0] File Contents: 1
+2022-04-10 17:19:02,008 INFO f.p.c.ScriptRunner [Thread-0] 2
+2022-04-10 17:19:02,009 INFO f.p.c.ScriptRunner [Thread-0] 3  Length= 5
+2022-04-10 17:20:24,650 INFO f.p.c.ScriptRunner [Thread-0] Python Script Started
+2022-04-10 17:20:24,759 INFO f.p.c.ScriptRunner [Thread-0] Started Example Socket Script
+2022-04-10 17:20:36,830 INFO f.p.c.ScriptRunner [Thread-0] Python Script Started
+2022-04-10 17:20:36,911 INFO f.p.c.ScriptRunner [Thread-0] Started Example Socket Script
+2022-04-10 17:20:36,915 INFO f.p.c.ScriptRunner [Thread-0] Bind failed. Error Code : 
+2022-04-10 17:20:36,915 INFO f.p.c.ScriptRunner [Thread-0] Traceback (most recent call last):
+2022-04-10 17:20:36,916 INFO f.p.c.ScriptRunner [Thread-0]   File "C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example_socket.py", line 20, in <module>
+2022-04-10 17:20:36,916 INFO f.p.c.ScriptRunner [Thread-0]     s.listen(10)
+2022-04-10 17:20:36,916 INFO f.p.c.ScriptRunner [Thread-0] OSError: [WinError 10022] An invalid argument was supplied
+2022-04-10 17:20:36,919 INFO f.p.c.ScriptRunner [Thread-0] Python Script Finished
+2022-04-10 17:20:36,946 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:20:37,952 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:20:37,955 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:21:07,505 INFO f.p.c.ScriptRunner [Thread-0] Python Script Started
+2022-04-10 17:21:07,574 INFO f.p.c.ScriptRunner [Thread-0] Started Example Socket Script
+2022-04-10 17:21:07,616 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:21:08,628 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:21:08,631 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:21:08,633 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:21:08,634 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:21:08,635 INFO f.p.c.ScriptRunner [Thread-0] Sum= 6
+2022-04-10 17:21:08,636 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:21:08,636 INFO f.p.c.ScriptRunner [Thread-0] File Contents: 1
+2022-04-10 17:21:08,636 INFO f.p.c.ScriptRunner [Thread-0] 2
+2022-04-10 17:21:08,637 INFO f.p.c.ScriptRunner [Thread-0] 3  Length= 5
+2022-04-10 17:21:09,630 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 17:21:10,634 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 17:21:10,634 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 17:21:10,635 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:21:10,635 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:21:10,635 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 17:21:10,635 INFO f.p.c.ScriptRunner [Thread-0] Sum= 15
+2022-04-10 17:21:10,635 INFO f.p.c.ScriptRunner [Thread-0] File Contents: 4
+2022-04-10 17:21:10,636 INFO f.p.c.ScriptRunner [Thread-0] 5
+2022-04-10 17:21:10,636 INFO f.p.c.ScriptRunner [Thread-0] 6  Length= 5
+2022-04-10 17:21:11,636 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 17:21:12,646 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 17:21:12,646 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 17:21:12,647 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 17:21:12,647 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:21:12,647 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:21:12,647 INFO f.p.c.ScriptRunner [Thread-0] Sum= 24
+2022-04-10 17:21:12,647 INFO f.p.c.ScriptRunner [Thread-0] File Contents: 7
+2022-04-10 17:21:12,647 INFO f.p.c.ScriptRunner [Thread-0] 8
+2022-04-10 17:21:12,648 INFO f.p.c.ScriptRunner [Thread-0] 9  Length= 5
+2022-04-10 17:26:05,468 INFO f.p.c.ScriptRunner [Thread-0] Python Script Started
+2022-04-10 17:26:05,547 INFO f.p.c.ScriptRunner [Thread-0] Started Example Socket Script
+2022-04-10 17:26:05,587 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:26:06,601 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:26:06,602 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:26:06,602 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:26:06,603 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:26:06,604 INFO f.p.c.ScriptRunner [Thread-0] Sum= 6
+2022-04-10 17:26:06,604 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:26:06,604 INFO f.p.c.ScriptRunner [Thread-0] File Contents: 1
+2022-04-10 17:26:06,604 INFO f.p.c.ScriptRunner [Thread-0] 2
+2022-04-10 17:26:06,604 INFO f.p.c.ScriptRunner [Thread-0] 3  Length= 5
+2022-04-10 17:26:15,184 INFO f.p.c.ScriptRunner [Thread-0] Python Script Started
+2022-04-10 17:26:15,269 INFO f.p.c.ScriptRunner [Thread-0] Started Example Socket Script
+2022-04-10 17:26:15,307 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:26:16,317 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:26:16,319 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:26:16,320 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:26:16,320 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:26:16,322 INFO f.p.c.ScriptRunner [Thread-0] Sum= 6
+2022-04-10 17:26:16,323 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-10 17:26:16,323 INFO f.p.c.ScriptRunner [Thread-0] File Contents: 1
+2022-04-10 17:26:16,323 INFO f.p.c.ScriptRunner [Thread-0] 2
+2022-04-10 17:26:16,324 INFO f.p.c.ScriptRunner [Thread-0] 3  Length= 5
+2022-04-10 17:26:17,321 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 17:26:18,321 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 17:26:18,322 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 17:26:18,323 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:26:18,323 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-10 17:26:18,323 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:26:18,324 INFO f.p.c.ScriptRunner [Thread-0] Sum= 15
+2022-04-10 17:26:18,324 INFO f.p.c.ScriptRunner [Thread-0] File Contents: 4
+2022-04-10 17:26:18,324 INFO f.p.c.ScriptRunner [Thread-0] 5
+2022-04-10 17:26:18,325 INFO f.p.c.ScriptRunner [Thread-0] 6  Length= 5
+2022-04-10 17:26:19,324 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 17:26:20,322 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 17:26:20,323 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 17:26:20,324 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:26:20,324 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-10 17:26:20,325 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-10 17:26:20,325 INFO f.p.c.ScriptRunner [Thread-0] Sum= 24
+2022-04-10 17:26:20,326 INFO f.p.c.ScriptRunner [Thread-0] File Contents: 7
+2022-04-10 17:26:20,326 INFO f.p.c.ScriptRunner [Thread-0] 8
+2022-04-10 17:26:20,327 INFO f.p.c.ScriptRunner [Thread-0] 9  Length= 5
+2022-04-11 10:07:46,669 INFO f.p.c.ScriptRunner [Thread-0] Python Script Started
+2022-04-11 10:07:46,733 INFO f.p.c.ScriptRunner [Thread-0] Started Example Socket Script
+2022-04-11 10:07:46,777 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-11 10:07:47,782 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-11 10:07:47,783 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-11 10:07:47,783 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-11 10:07:47,783 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-11 10:07:47,784 INFO f.p.c.ScriptRunner [Thread-0] Sum= 6
+2022-04-11 10:07:47,784 INFO f.p.c.ScriptRunner [Thread-0] File Contents: 1
+2022-04-11 10:07:47,784 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example1.dat
+2022-04-11 10:07:47,784 INFO f.p.c.ScriptRunner [Thread-0] 2
+2022-04-11 10:07:47,784 INFO f.p.c.ScriptRunner [Thread-0] 3  Length= 5
+2022-04-11 10:07:48,788 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-11 10:07:49,789 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-11 10:07:49,789 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-11 10:07:49,790 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-11 10:07:49,790 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example2.dat
+2022-04-11 10:07:49,790 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-11 10:07:49,790 INFO f.p.c.ScriptRunner [Thread-0] Sum= 15
+2022-04-11 10:07:49,790 INFO f.p.c.ScriptRunner [Thread-0] File Contents: 4
+2022-04-11 10:07:49,790 INFO f.p.c.ScriptRunner [Thread-0] 5
+2022-04-11 10:07:49,790 INFO f.p.c.ScriptRunner [Thread-0] 6  Length= 5
+2022-04-11 10:07:50,793 INFO f.p.q.FileQueue [main] Added file to queue: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-11 10:07:51,801 INFO f.p.q.FileQueue [Timer] Running Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-11 10:07:51,802 INFO f.p.c.ScriptRunner [Thread-0] Filename set to  C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-11 10:07:51,803 INFO f.p.q.FileQueue [Timer] Finished Queued File: C:\Users\chris\Desktop\ftp-poller\ftp.poll.queue\src\test\resources\example3.dat
+2022-04-11 10:07:51,803 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-11 10:07:51,804 INFO f.p.c.ScriptRunner [Thread-0] 
+2022-04-11 10:07:51,805 INFO f.p.c.ScriptRunner [Thread-0] Sum= 24
+2022-04-11 10:07:51,806 INFO f.p.c.ScriptRunner [Thread-0] File Contents: 7
+2022-04-11 10:07:51,806 INFO f.p.c.ScriptRunner [Thread-0] 8
+2022-04-11 10:07:51,807 INFO f.p.c.ScriptRunner [Thread-0] 9  Length= 5

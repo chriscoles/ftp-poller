@@ -1,0 +1,2758 @@
+Starting the server on port 1234
+Connection accepted from host /127.0.0.1
+Starting the session...
+Sending reply [220 Service ready for new user. (MockFtpServer 2.7.1; see http://mockftpserver.sourceforge.net)]
+Sending Reply [220 Service ready for new user. (MockFtpServer 2.7.1; see http://mockftpserver.sourceforge.net)]
+Received command: [USER user]
+Sending reply [331 User name okay, need password.]
+Sending Reply [331 User name okay, need password.]
+Received command: [PASS pass]
+Sending reply [230 User logged in, proceed.]
+Sending Reply [230 User logged in, proceed.]
+Received command: [SYST]
+Sending reply [215 "WINDOWS"] args=[WINDOWS]
+Sending Reply [215 "WINDOWS"]
+Received command: [PORT 127,0,0,1,204,118]
+host=/127.0.0.1 port=52342
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52342]
+Sending []
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PORT 127,0,0,1,204,120]
+host=/127.0.0.1 port=52344
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52344]
+Sending [04-10-22 06:19PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PORT 127,0,0,1,204,122]
+host=/127.0.0.1 port=52346
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52346]
+Sending [04-10-22 06:19PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PORT 127,0,0,1,204,124]
+host=/127.0.0.1 port=52348
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52348]
+Sending [04-10-22 06:19PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PORT 127,0,0,1,204,126]
+host=/127.0.0.1 port=52350
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52350]
+Sending [04-10-22 06:19PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PORT 127,0,0,1,204,128]
+host=/127.0.0.1 port=52352
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52352]
+Sending [04-10-22 06:19PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PORT 127,0,0,1,204,130]
+host=/127.0.0.1 port=52354
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52354]
+Sending [04-10-22 06:19PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PORT 127,0,0,1,204,132]
+host=/127.0.0.1 port=52356
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52356]
+Sending [04-10-22 06:19PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PORT 127,0,0,1,204,134]
+host=/127.0.0.1 port=52358
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52358]
+Sending [04-10-22 06:19PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PORT 127,0,0,1,204,136]
+host=/127.0.0.1 port=52360
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52360]
+Sending [04-10-22 06:19PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PORT 127,0,0,1,204,138]
+host=/127.0.0.1 port=52362
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52362]
+Sending [04-10-22 06:19PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PORT 127,0,0,1,204,140]
+host=/127.0.0.1 port=52364
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52364]
+Sending [04-10-22 06:19PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PORT 127,0,0,1,204,142]
+host=/127.0.0.1 port=52366
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52366]
+Sending [04-10-22 06:19PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PORT 127,0,0,1,204,144]
+host=/127.0.0.1 port=52368
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52368]
+Sending [04-10-22 06:19PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PORT 127,0,0,1,204,146]
+host=/127.0.0.1 port=52370
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52370]
+Sending [04-10-22 06:19PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PORT 127,0,0,1,204,148]
+host=/127.0.0.1 port=52372
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52372]
+Sending [04-10-22 06:19PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PORT 127,0,0,1,204,150]
+host=/127.0.0.1 port=52374
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52374]
+Sending [04-10-22 06:19PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PORT 127,0,0,1,204,152]
+host=/127.0.0.1 port=52376
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52376]
+Sending [04-10-22 06:19PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PORT 127,0,0,1,204,154]
+host=/127.0.0.1 port=52378
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52378]
+Sending [04-10-22 06:19PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PORT 127,0,0,1,204,156]
+host=/127.0.0.1 port=52380
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52380]
+Sending [04-10-22 06:19PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PORT 127,0,0,1,204,158]
+host=/127.0.0.1 port=52382
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52382]
+Sending [04-10-22 06:19PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PORT 127,0,0,1,204,160]
+host=/127.0.0.1 port=52384
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52384]
+Sending [04-10-22 06:19PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Starting the server on port 1234
+Connection accepted from host /127.0.0.1
+Starting the session...
+Sending reply [220 Service ready for new user. (MockFtpServer 2.7.1; see http://mockftpserver.sourceforge.net)]
+Sending Reply [220 Service ready for new user. (MockFtpServer 2.7.1; see http://mockftpserver.sourceforge.net)]
+Received command: [USER user]
+Sending reply [331 User name okay, need password.]
+Sending Reply [331 User name okay, need password.]
+Received command: [PASS pass]
+Sending reply [230 User logged in, proceed.]
+Sending Reply [230 User logged in, proceed.]
+Received command: [SYST]
+Sending reply [215 "WINDOWS"] args=[WINDOWS]
+Sending Reply [215 "WINDOWS"]
+Received command: [PORT 127,0,0,1,204,167]
+host=/127.0.0.1 port=52391
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52391]
+Sending []
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PORT 127,0,0,1,204,169]
+host=/127.0.0.1 port=52393
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52393]
+Sending [04-10-22 06:22PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PORT 127,0,0,1,204,171]
+host=/127.0.0.1 port=52395
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52395]
+Sending [04-10-22 06:22PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PORT 127,0,0,1,204,173]
+host=/127.0.0.1 port=52397
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52397]
+Sending [04-10-22 06:22PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PORT 127,0,0,1,204,176]
+host=/127.0.0.1 port=52400
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52400]
+Sending [04-10-22 06:22PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PORT 127,0,0,1,204,178]
+host=/127.0.0.1 port=52402
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52402]
+Sending [04-10-22 06:22PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PORT 127,0,0,1,204,180]
+host=/127.0.0.1 port=52404
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52404]
+Sending [04-10-22 06:22PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PORT 127,0,0,1,204,182]
+host=/127.0.0.1 port=52406
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52406]
+Sending [04-10-22 06:22PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PORT 127,0,0,1,204,184]
+host=/127.0.0.1 port=52408
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52408]
+Sending [04-10-22 06:22PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PORT 127,0,0,1,204,186]
+host=/127.0.0.1 port=52410
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52410]
+Sending [04-10-22 06:22PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PORT 127,0,0,1,204,188]
+host=/127.0.0.1 port=52412
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52412]
+Sending [04-10-22 06:22PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PORT 127,0,0,1,204,190]
+host=/127.0.0.1 port=52414
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52414]
+Sending [04-10-22 06:22PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Starting the server on port 1234
+Connection accepted from host /127.0.0.1
+Starting the session...
+Sending reply [220 Service ready for new user. (MockFtpServer 2.7.1; see http://mockftpserver.sourceforge.net)]
+Sending Reply [220 Service ready for new user. (MockFtpServer 2.7.1; see http://mockftpserver.sourceforge.net)]
+Received command: [USER user]
+Sending reply [331 User name okay, need password.]
+Sending Reply [331 User name okay, need password.]
+Received command: [PASS pass]
+Sending reply [230 User logged in, proceed.]
+Sending Reply [230 User logged in, proceed.]
+Received command: [SYST]
+Sending reply [215 "WINDOWS"] args=[WINDOWS]
+Sending Reply [215 "WINDOWS"]
+Received command: [PORT 127,0,0,1,204,205]
+host=/127.0.0.1 port=52429
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52429]
+Sending []
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PORT 127,0,0,1,204,207]
+host=/127.0.0.1 port=52431
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52431]
+Sending [04-10-22 06:25PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PORT 127,0,0,1,204,209]
+host=/127.0.0.1 port=52433
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52433]
+Sending [04-10-22 06:25PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PORT 127,0,0,1,204,211]
+host=/127.0.0.1 port=52435
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52435]
+Sending [04-10-22 06:25PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PORT 127,0,0,1,204,213]
+host=/127.0.0.1 port=52437
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52437]
+Sending [04-10-22 06:25PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PORT 127,0,0,1,204,215]
+host=/127.0.0.1 port=52439
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52439]
+Sending [04-10-22 06:25PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PORT 127,0,0,1,204,217]
+host=/127.0.0.1 port=52441
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52441]
+Sending [04-10-22 06:25PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Starting the server on port 1234
+Connection accepted from host /127.0.0.1
+Starting the session...
+Sending reply [220 Service ready for new user. (MockFtpServer 2.7.1; see http://mockftpserver.sourceforge.net)]
+Sending Reply [220 Service ready for new user. (MockFtpServer 2.7.1; see http://mockftpserver.sourceforge.net)]
+Received command: [USER user]
+Sending reply [331 User name okay, need password.]
+Sending Reply [331 User name okay, need password.]
+Received command: [PASS pass]
+Sending reply [230 User logged in, proceed.]
+Sending Reply [230 User logged in, proceed.]
+Received command: [SYST]
+Sending reply [215 "WINDOWS"] args=[WINDOWS]
+Sending Reply [215 "WINDOWS"]
+Received command: [PORT 127,0,0,1,205,206]
+host=/127.0.0.1 port=52686
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52686]
+Sending []
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PORT 127,0,0,1,205,208]
+host=/127.0.0.1 port=52688
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52688]
+Sending [04-10-22 07:00PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PORT 127,0,0,1,205,210]
+host=/127.0.0.1 port=52690
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52690]
+Sending [04-10-22 07:00PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PORT 127,0,0,1,205,212]
+host=/127.0.0.1 port=52692
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52692]
+Sending [04-10-22 07:00PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PORT 127,0,0,1,205,214]
+host=/127.0.0.1 port=52694
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52694]
+Sending [04-10-22 07:00PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PORT 127,0,0,1,205,216]
+host=/127.0.0.1 port=52696
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52696]
+Sending [04-10-22 07:00PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Starting the server on port 1234
+Connection accepted from host /127.0.0.1
+Starting the session...
+Sending reply [220 Service ready for new user. (MockFtpServer 2.7.1; see http://mockftpserver.sourceforge.net)]
+Sending Reply [220 Service ready for new user. (MockFtpServer 2.7.1; see http://mockftpserver.sourceforge.net)]
+Received command: [USER user]
+Sending reply [331 User name okay, need password.]
+Sending Reply [331 User name okay, need password.]
+Received command: [PASS pass]
+Sending reply [230 User logged in, proceed.]
+Sending Reply [230 User logged in, proceed.]
+Received command: [SYST]
+Sending reply [215 "WINDOWS"] args=[WINDOWS]
+Sending Reply [215 "WINDOWS"]
+Received command: [PORT 127,0,0,1,205,224]
+host=/127.0.0.1 port=52704
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52704]
+Sending []
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PORT 127,0,0,1,205,226]
+host=/127.0.0.1 port=52706
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52706]
+Sending [04-10-22 07:00PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Starting the server on port 1234
+Connection accepted from host /127.0.0.1
+Starting the session...
+Sending reply [220 Service ready for new user. (MockFtpServer 2.7.1; see http://mockftpserver.sourceforge.net)]
+Sending Reply [220 Service ready for new user. (MockFtpServer 2.7.1; see http://mockftpserver.sourceforge.net)]
+Received command: [USER user]
+Sending reply [331 User name okay, need password.]
+Sending Reply [331 User name okay, need password.]
+Received command: [PASS pass]
+Sending reply [230 User logged in, proceed.]
+Sending Reply [230 User logged in, proceed.]
+Received command: [SYST]
+Sending reply [215 "WINDOWS"] args=[WINDOWS]
+Sending Reply [215 "WINDOWS"]
+Received command: [PORT 127,0,0,1,206,20]
+host=/127.0.0.1 port=52756
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52756]
+Sending []
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PORT 127,0,0,1,206,22]
+host=/127.0.0.1 port=52758
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52758]
+Sending [04-10-22 07:06PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [TYPE I]
+Sending reply [200 TYPE completed.]
+Sending Reply [200 TYPE completed.]
+Received command: [PASV]
+server=/127.0.0.1 port=52760
+Sending reply [227 (127,0,0,1,206,24)] args=[127,0,0,1,206,24]
+Sending Reply [227 (127,0,0,1,206,24)]
+Received command: [RETR C:/data\example1.dat]
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 52760
+Successful (passive mode) client connection to port 52760
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PASV]
+server=/127.0.0.1 port=52762
+Sending reply [227 (127,0,0,1,206,26)] args=[127,0,0,1,206,26]
+Sending Reply [227 (127,0,0,1,206,26)]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 52762
+Successful (passive mode) client connection to port 52762
+Sending [04-10-22 07:06PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PASV]
+server=/127.0.0.1 port=52764
+Sending reply [227 (127,0,0,1,206,28)] args=[127,0,0,1,206,28]
+Sending Reply [227 (127,0,0,1,206,28)]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 52764
+Successful (passive mode) client connection to port 52764
+Sending [04-10-22 07:06PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PASV]
+server=/127.0.0.1 port=52766
+Sending reply [227 (127,0,0,1,206,30)] args=[127,0,0,1,206,30]
+Sending Reply [227 (127,0,0,1,206,30)]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 52766
+Successful (passive mode) client connection to port 52766
+Sending [04-10-22 07:06PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PASV]
+server=/127.0.0.1 port=52768
+Sending reply [227 (127,0,0,1,206,32)] args=[127,0,0,1,206,32]
+Sending Reply [227 (127,0,0,1,206,32)]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 52768
+Successful (passive mode) client connection to port 52768
+Sending [04-10-22 07:06PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PASV]
+server=/127.0.0.1 port=52770
+Sending reply [227 (127,0,0,1,206,34)] args=[127,0,0,1,206,34]
+Sending Reply [227 (127,0,0,1,206,34)]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 52770
+Successful (passive mode) client connection to port 52770
+Sending [04-10-22 07:06PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PASV]
+server=/127.0.0.1 port=52772
+Sending reply [227 (127,0,0,1,206,36)] args=[127,0,0,1,206,36]
+Sending Reply [227 (127,0,0,1,206,36)]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 52772
+Successful (passive mode) client connection to port 52772
+Sending [04-10-22 07:06PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PASV]
+server=/127.0.0.1 port=52774
+Sending reply [227 (127,0,0,1,206,38)] args=[127,0,0,1,206,38]
+Sending Reply [227 (127,0,0,1,206,38)]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 52774
+Successful (passive mode) client connection to port 52774
+Sending [04-10-22 07:06PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Starting the server on port 1234
+Connection accepted from host /127.0.0.1
+Starting the session...
+Sending reply [220 Service ready for new user. (MockFtpServer 2.7.1; see http://mockftpserver.sourceforge.net)]
+Sending Reply [220 Service ready for new user. (MockFtpServer 2.7.1; see http://mockftpserver.sourceforge.net)]
+Received command: [USER user]
+Sending reply [331 User name okay, need password.]
+Sending Reply [331 User name okay, need password.]
+Received command: [PASS pass]
+Sending reply [230 User logged in, proceed.]
+Sending Reply [230 User logged in, proceed.]
+Received command: [SYST]
+Sending reply [215 "WINDOWS"] args=[WINDOWS]
+Sending Reply [215 "WINDOWS"]
+Received command: [PORT 127,0,0,1,206,49]
+host=/127.0.0.1 port=52785
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52785]
+Sending []
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PORT 127,0,0,1,206,51]
+host=/127.0.0.1 port=52787
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52787]
+Sending [04-10-22 07:08PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [TYPE I]
+Sending reply [200 TYPE completed.]
+Sending Reply [200 TYPE completed.]
+Received command: [PASV]
+server=/127.0.0.1 port=52789
+Sending reply [227 (127,0,0,1,206,53)] args=[127,0,0,1,206,53]
+Sending Reply [227 (127,0,0,1,206,53)]
+Received command: [RETR C:/data\example1.dat]
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 52789
+Successful (passive mode) client connection to port 52789
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PASV]
+server=/127.0.0.1 port=52791
+Sending reply [227 (127,0,0,1,206,55)] args=[127,0,0,1,206,55]
+Sending Reply [227 (127,0,0,1,206,55)]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 52791
+Successful (passive mode) client connection to port 52791
+Sending [04-10-22 07:08PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PASV]
+server=/127.0.0.1 port=52793
+Sending reply [227 (127,0,0,1,206,57)] args=[127,0,0,1,206,57]
+Sending Reply [227 (127,0,0,1,206,57)]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 52793
+Successful (passive mode) client connection to port 52793
+Sending [04-10-22 07:08PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PASV]
+server=/127.0.0.1 port=52795
+Sending reply [227 (127,0,0,1,206,59)] args=[127,0,0,1,206,59]
+Sending Reply [227 (127,0,0,1,206,59)]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 52795
+Successful (passive mode) client connection to port 52795
+Sending [04-10-22 07:08PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PASV]
+server=/127.0.0.1 port=52797
+Sending reply [227 (127,0,0,1,206,61)] args=[127,0,0,1,206,61]
+Sending Reply [227 (127,0,0,1,206,61)]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 52797
+Successful (passive mode) client connection to port 52797
+Sending [04-10-22 07:08PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Starting the server on port 1234
+Connection accepted from host /127.0.0.1
+Starting the session...
+Sending reply [220 Service ready for new user. (MockFtpServer 2.7.1; see http://mockftpserver.sourceforge.net)]
+Sending Reply [220 Service ready for new user. (MockFtpServer 2.7.1; see http://mockftpserver.sourceforge.net)]
+Received command: [USER user]
+Sending reply [331 User name okay, need password.]
+Sending Reply [331 User name okay, need password.]
+Received command: [PASS pass]
+Sending reply [230 User logged in, proceed.]
+Sending Reply [230 User logged in, proceed.]
+Received command: [SYST]
+Sending reply [215 "WINDOWS"] args=[WINDOWS]
+Sending Reply [215 "WINDOWS"]
+Received command: [PORT 127,0,0,1,206,83]
+host=/127.0.0.1 port=52819
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52819]
+Sending []
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PORT 127,0,0,1,206,85]
+host=/127.0.0.1 port=52821
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52821]
+Sending [04-10-22 07:15PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [TYPE I]
+Sending reply [200 TYPE completed.]
+Sending Reply [200 TYPE completed.]
+Received command: [PASV]
+server=/127.0.0.1 port=52823
+Sending reply [227 (127,0,0,1,206,87)] args=[127,0,0,1,206,87]
+Sending Reply [227 (127,0,0,1,206,87)]
+Received command: [RETR C:/data\example1.dat]
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 52823
+Successful (passive mode) client connection to port 52823
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PASV]
+server=/127.0.0.1 port=52825
+Sending reply [227 (127,0,0,1,206,89)] args=[127,0,0,1,206,89]
+Sending Reply [227 (127,0,0,1,206,89)]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 52825
+Successful (passive mode) client connection to port 52825
+Sending [04-10-22 07:15PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PASV]
+server=/127.0.0.1 port=52827
+Sending reply [227 (127,0,0,1,206,91)] args=[127,0,0,1,206,91]
+Sending Reply [227 (127,0,0,1,206,91)]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 52827
+Successful (passive mode) client connection to port 52827
+Sending [04-10-22 07:15PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PASV]
+server=/127.0.0.1 port=52829
+Sending reply [227 (127,0,0,1,206,93)] args=[127,0,0,1,206,93]
+Sending Reply [227 (127,0,0,1,206,93)]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 52829
+Successful (passive mode) client connection to port 52829
+Sending [04-10-22 07:15PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Starting the server on port 1234
+Connection accepted from host /127.0.0.1
+Starting the session...
+Sending reply [220 Service ready for new user. (MockFtpServer 2.7.1; see http://mockftpserver.sourceforge.net)]
+Sending Reply [220 Service ready for new user. (MockFtpServer 2.7.1; see http://mockftpserver.sourceforge.net)]
+Received command: [USER user]
+Sending reply [331 User name okay, need password.]
+Sending Reply [331 User name okay, need password.]
+Received command: [PASS pass]
+Sending reply [230 User logged in, proceed.]
+Sending Reply [230 User logged in, proceed.]
+Received command: [SYST]
+Sending reply [215 "WINDOWS"] args=[WINDOWS]
+Sending Reply [215 "WINDOWS"]
+Received command: [PORT 127,0,0,1,206,113]
+host=/127.0.0.1 port=52849
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52849]
+Sending []
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PORT 127,0,0,1,206,115]
+host=/127.0.0.1 port=52851
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52851]
+Sending [04-10-22 07:19PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [TYPE I]
+Sending reply [200 TYPE completed.]
+Sending Reply [200 TYPE completed.]
+Received command: [PASV]
+server=/127.0.0.1 port=52853
+Sending reply [227 (127,0,0,1,206,117)] args=[127,0,0,1,206,117]
+Sending Reply [227 (127,0,0,1,206,117)]
+Received command: [RETR C:/data\example1.dat]
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 52853
+Successful (passive mode) client connection to port 52853
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PASV]
+server=/127.0.0.1 port=52855
+Sending reply [227 (127,0,0,1,206,119)] args=[127,0,0,1,206,119]
+Sending Reply [227 (127,0,0,1,206,119)]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 52855
+Successful (passive mode) client connection to port 52855
+Sending [04-10-22 07:19PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PASV]
+server=/127.0.0.1 port=52857
+Sending reply [227 (127,0,0,1,206,121)] args=[127,0,0,1,206,121]
+Sending Reply [227 (127,0,0,1,206,121)]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 52857
+Successful (passive mode) client connection to port 52857
+Sending [04-10-22 07:19PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PASV]
+server=/127.0.0.1 port=52859
+Sending reply [227 (127,0,0,1,206,123)] args=[127,0,0,1,206,123]
+Sending Reply [227 (127,0,0,1,206,123)]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 52859
+Successful (passive mode) client connection to port 52859
+Sending [04-10-22 07:19PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PASV]
+server=/127.0.0.1 port=52861
+Sending reply [227 (127,0,0,1,206,125)] args=[127,0,0,1,206,125]
+Sending Reply [227 (127,0,0,1,206,125)]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 52861
+Successful (passive mode) client connection to port 52861
+Sending [04-10-22 07:19PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PASV]
+server=/127.0.0.1 port=52863
+Sending reply [227 (127,0,0,1,206,127)] args=[127,0,0,1,206,127]
+Sending Reply [227 (127,0,0,1,206,127)]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 52863
+Successful (passive mode) client connection to port 52863
+Sending [04-10-22 07:19PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Starting the server on port 1234
+Connection accepted from host /127.0.0.1
+Starting the session...
+Sending reply [220 Service ready for new user. (MockFtpServer 2.7.1; see http://mockftpserver.sourceforge.net)]
+Sending Reply [220 Service ready for new user. (MockFtpServer 2.7.1; see http://mockftpserver.sourceforge.net)]
+Received command: [USER user]
+Sending reply [331 User name okay, need password.]
+Sending Reply [331 User name okay, need password.]
+Received command: [PASS pass]
+Sending reply [230 User logged in, proceed.]
+Sending Reply [230 User logged in, proceed.]
+Received command: [SYST]
+Sending reply [215 "WINDOWS"] args=[WINDOWS]
+Sending Reply [215 "WINDOWS"]
+Received command: [PORT 127,0,0,1,206,149]
+host=/127.0.0.1 port=52885
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52885]
+Sending []
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PORT 127,0,0,1,206,151]
+host=/127.0.0.1 port=52887
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52887]
+Sending [04-10-22 07:24PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [TYPE I]
+Sending reply [200 TYPE completed.]
+Sending Reply [200 TYPE completed.]
+Received command: [PASV]
+server=/127.0.0.1 port=52889
+Sending reply [227 (127,0,0,1,206,153)] args=[127,0,0,1,206,153]
+Sending Reply [227 (127,0,0,1,206,153)]
+Received command: [RETR C:/data\example1.dat]
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 52889
+Successful (passive mode) client connection to port 52889
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PASV]
+server=/127.0.0.1 port=52891
+Sending reply [227 (127,0,0,1,206,155)] args=[127,0,0,1,206,155]
+Sending Reply [227 (127,0,0,1,206,155)]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 52891
+Successful (passive mode) client connection to port 52891
+Sending [04-10-22 07:24PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PASV]
+server=/127.0.0.1 port=52893
+Sending reply [227 (127,0,0,1,206,157)] args=[127,0,0,1,206,157]
+Sending Reply [227 (127,0,0,1,206,157)]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 52893
+Successful (passive mode) client connection to port 52893
+Sending [04-10-22 07:24PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [QUIT]
+Sending reply [221 Service closing control connection.]
+Sending Reply [221 Service closing control connection.]
+Cleaning up the session
+Session stopped.
+Cleaning up server...
+Server stopped.
+Starting the server on port 1234
+Connection accepted from host /127.0.0.1
+Starting the session...
+Sending reply [220 Service ready for new user. (MockFtpServer 2.7.1; see http://mockftpserver.sourceforge.net)]
+Sending Reply [220 Service ready for new user. (MockFtpServer 2.7.1; see http://mockftpserver.sourceforge.net)]
+Received command: [USER user]
+Sending reply [331 User name okay, need password.]
+Sending Reply [331 User name okay, need password.]
+Received command: [PASS pass]
+Sending reply [230 User logged in, proceed.]
+Sending Reply [230 User logged in, proceed.]
+Received command: [SYST]
+Sending reply [215 "WINDOWS"] args=[WINDOWS]
+Sending Reply [215 "WINDOWS"]
+Received command: [PORT 127,0,0,1,206,187]
+host=/127.0.0.1 port=52923
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52923]
+Sending []
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PORT 127,0,0,1,206,189]
+host=/127.0.0.1 port=52925
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52925]
+Sending [04-10-22 07:31PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [TYPE I]
+Sending reply [200 TYPE completed.]
+Sending Reply [200 TYPE completed.]
+Received command: [PASV]
+server=/127.0.0.1 port=52927
+Sending reply [227 (127,0,0,1,206,191)] args=[127,0,0,1,206,191]
+Sending Reply [227 (127,0,0,1,206,191)]
+Received command: [RETR C:/data\example1.dat]
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 52927
+Successful (passive mode) client connection to port 52927
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PASV]
+server=/127.0.0.1 port=52929
+Sending reply [227 (127,0,0,1,206,193)] args=[127,0,0,1,206,193]
+Sending Reply [227 (127,0,0,1,206,193)]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 52929
+Successful (passive mode) client connection to port 52929
+Sending [04-10-22 07:31PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PASV]
+server=/127.0.0.1 port=52931
+Sending reply [227 (127,0,0,1,206,195)] args=[127,0,0,1,206,195]
+Sending Reply [227 (127,0,0,1,206,195)]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 52931
+Successful (passive mode) client connection to port 52931
+Sending [04-10-22 07:31PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PASV]
+server=/127.0.0.1 port=52933
+Sending reply [227 (127,0,0,1,206,197)] args=[127,0,0,1,206,197]
+Sending Reply [227 (127,0,0,1,206,197)]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 52933
+Successful (passive mode) client connection to port 52933
+Sending [04-10-22 07:31PM                5  example2.dat
+04-10-22 07:31PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [TYPE I]
+Sending reply [200 TYPE completed.]
+Sending Reply [200 TYPE completed.]
+Received command: [PASV]
+server=/127.0.0.1 port=52935
+Sending reply [227 (127,0,0,1,206,199)] args=[127,0,0,1,206,199]
+Sending Reply [227 (127,0,0,1,206,199)]
+Received command: [RETR C:/data\example2.dat]
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 52935
+Successful (passive mode) client connection to port 52935
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PASV]
+server=/127.0.0.1 port=52937
+Sending reply [227 (127,0,0,1,206,201)] args=[127,0,0,1,206,201]
+Sending Reply [227 (127,0,0,1,206,201)]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 52937
+Successful (passive mode) client connection to port 52937
+Sending [04-10-22 07:31PM                5  example2.dat
+04-10-22 07:31PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PASV]
+server=/127.0.0.1 port=52939
+Sending reply [227 (127,0,0,1,206,203)] args=[127,0,0,1,206,203]
+Sending Reply [227 (127,0,0,1,206,203)]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 52939
+Successful (passive mode) client connection to port 52939
+Sending [04-10-22 07:31PM                5  example2.dat
+04-10-22 07:31PM                5  example3.dat
+04-10-22 07:31PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [TYPE I]
+Sending reply [200 TYPE completed.]
+Sending Reply [200 TYPE completed.]
+Received command: [PASV]
+server=/127.0.0.1 port=52941
+Sending reply [227 (127,0,0,1,206,205)] args=[127,0,0,1,206,205]
+Sending Reply [227 (127,0,0,1,206,205)]
+Received command: [RETR C:/data\example3.dat]
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 52941
+Successful (passive mode) client connection to port 52941
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PASV]
+server=/127.0.0.1 port=52943
+Sending reply [227 (127,0,0,1,206,207)] args=[127,0,0,1,206,207]
+Sending Reply [227 (127,0,0,1,206,207)]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 52943
+Successful (passive mode) client connection to port 52943
+Sending [04-10-22 07:31PM                5  example2.dat
+04-10-22 07:31PM                5  example3.dat
+04-10-22 07:31PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PASV]
+server=/127.0.0.1 port=52945
+Sending reply [227 (127,0,0,1,206,209)] args=[127,0,0,1,206,209]
+Sending Reply [227 (127,0,0,1,206,209)]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 52945
+Successful (passive mode) client connection to port 52945
+Sending [04-10-22 07:31PM                5  example2.dat
+04-10-22 07:31PM                5  example3.dat
+04-10-22 07:31PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [QUIT]
+Sending reply [221 Service closing control connection.]
+Sending Reply [221 Service closing control connection.]
+Cleaning up the session
+Session stopped.
+Cleaning up server...
+Server stopped.
+Starting the server on port 1234
+Connection accepted from host /127.0.0.1
+Starting the session...
+Sending reply [220 Service ready for new user. (MockFtpServer 2.7.1; see http://mockftpserver.sourceforge.net)]
+Sending Reply [220 Service ready for new user. (MockFtpServer 2.7.1; see http://mockftpserver.sourceforge.net)]
+Received command: [USER user]
+Sending reply [331 User name okay, need password.]
+Sending Reply [331 User name okay, need password.]
+Received command: [PASS pass]
+Sending reply [230 User logged in, proceed.]
+Sending Reply [230 User logged in, proceed.]
+Received command: [SYST]
+Sending reply [215 "WINDOWS"] args=[WINDOWS]
+Sending Reply [215 "WINDOWS"]
+Received command: [PORT 127,0,0,1,206,224]
+host=/127.0.0.1 port=52960
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52960]
+Sending [04-10-22 07:35PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PORT 127,0,0,1,206,226]
+host=/127.0.0.1 port=52962
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52962]
+Sending [04-10-22 07:35PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PORT 127,0,0,1,206,228]
+host=/127.0.0.1 port=52964
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52964]
+Sending [04-10-22 07:35PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Starting the server on port 1234
+Connection accepted from host /127.0.0.1
+Starting the session...
+Sending reply [220 Service ready for new user. (MockFtpServer 2.7.1; see http://mockftpserver.sourceforge.net)]
+Sending Reply [220 Service ready for new user. (MockFtpServer 2.7.1; see http://mockftpserver.sourceforge.net)]
+Received command: [USER user]
+Sending reply [331 User name okay, need password.]
+Sending Reply [331 User name okay, need password.]
+Received command: [PASS pass]
+Sending reply [230 User logged in, proceed.]
+Sending Reply [230 User logged in, proceed.]
+Received command: [SYST]
+Sending reply [215 "WINDOWS"] args=[WINDOWS]
+Sending Reply [215 "WINDOWS"]
+Received command: [PORT 127,0,0,1,206,234]
+host=/127.0.0.1 port=52970
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52970]
+Sending []
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PORT 127,0,0,1,206,236]
+host=/127.0.0.1 port=52972
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [52972]
+Sending [04-10-22 07:35PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [TYPE I]
+Sending reply [200 TYPE completed.]
+Sending Reply [200 TYPE completed.]
+Received command: [PASV]
+server=/127.0.0.1 port=52974
+Sending reply [227 (127,0,0,1,206,238)] args=[127,0,0,1,206,238]
+Sending Reply [227 (127,0,0,1,206,238)]
+Received command: [RETR C:/data\example1.dat]
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 52974
+Successful (passive mode) client connection to port 52974
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PASV]
+server=/127.0.0.1 port=52976
+Sending reply [227 (127,0,0,1,206,240)] args=[127,0,0,1,206,240]
+Sending Reply [227 (127,0,0,1,206,240)]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 52976
+Successful (passive mode) client connection to port 52976
+Sending [04-10-22 07:35PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PASV]
+server=/127.0.0.1 port=52978
+Sending reply [227 (127,0,0,1,206,242)] args=[127,0,0,1,206,242]
+Sending Reply [227 (127,0,0,1,206,242)]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 52978
+Successful (passive mode) client connection to port 52978
+Sending [04-10-22 07:35PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PASV]
+server=/127.0.0.1 port=52980
+Sending reply [227 (127,0,0,1,206,244)] args=[127,0,0,1,206,244]
+Sending Reply [227 (127,0,0,1,206,244)]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 52980
+Successful (passive mode) client connection to port 52980
+Sending [04-10-22 07:35PM                5  example2.dat
+04-10-22 07:35PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [TYPE I]
+Sending reply [200 TYPE completed.]
+Sending Reply [200 TYPE completed.]
+Received command: [PASV]
+server=/127.0.0.1 port=52982
+Sending reply [227 (127,0,0,1,206,246)] args=[127,0,0,1,206,246]
+Sending Reply [227 (127,0,0,1,206,246)]
+Received command: [RETR C:/data\example2.dat]
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 52982
+Successful (passive mode) client connection to port 52982
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PASV]
+server=/127.0.0.1 port=52984
+Sending reply [227 (127,0,0,1,206,248)] args=[127,0,0,1,206,248]
+Sending Reply [227 (127,0,0,1,206,248)]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 52984
+Successful (passive mode) client connection to port 52984
+Sending [04-10-22 07:35PM                5  example2.dat
+04-10-22 07:35PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PASV]
+server=/127.0.0.1 port=52986
+Sending reply [227 (127,0,0,1,206,250)] args=[127,0,0,1,206,250]
+Sending Reply [227 (127,0,0,1,206,250)]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 52986
+Successful (passive mode) client connection to port 52986
+Sending [04-10-22 07:35PM                5  example2.dat
+04-10-22 07:35PM                5  example3.dat
+04-10-22 07:35PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [TYPE I]
+Sending reply [200 TYPE completed.]
+Sending Reply [200 TYPE completed.]
+Received command: [PASV]
+server=/127.0.0.1 port=52988
+Sending reply [227 (127,0,0,1,206,252)] args=[127,0,0,1,206,252]
+Sending Reply [227 (127,0,0,1,206,252)]
+Received command: [RETR C:/data\example3.dat]
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 52988
+Successful (passive mode) client connection to port 52988
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PASV]
+server=/127.0.0.1 port=52990
+Sending reply [227 (127,0,0,1,206,254)] args=[127,0,0,1,206,254]
+Sending Reply [227 (127,0,0,1,206,254)]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 52990
+Successful (passive mode) client connection to port 52990
+Sending [04-10-22 07:35PM                5  example2.dat
+04-10-22 07:35PM                5  example3.dat
+04-10-22 07:35PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PASV]
+server=/127.0.0.1 port=52992
+Sending reply [227 (127,0,0,1,207,0)] args=[127,0,0,1,207,0]
+Sending Reply [227 (127,0,0,1,207,0)]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 52992
+Successful (passive mode) client connection to port 52992
+Sending [04-10-22 07:35PM                5  example2.dat
+04-10-22 07:35PM                5  example3.dat
+04-10-22 07:35PM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [QUIT]
+Sending reply [221 Service closing control connection.]
+Sending Reply [221 Service closing control connection.]
+Cleaning up the session
+Session stopped.
+Cleaning up server...
+Server stopped.
+Starting the server on port 1234
+Connection accepted from host /127.0.0.1
+Starting the session...
+Sending reply [220 Service ready for new user. (MockFtpServer 2.7.1; see http://mockftpserver.sourceforge.net)]
+Sending Reply [220 Service ready for new user. (MockFtpServer 2.7.1; see http://mockftpserver.sourceforge.net)]
+Received command: [USER user]
+Sending reply [331 User name okay, need password.]
+Sending Reply [331 User name okay, need password.]
+Received command: [PASS pass]
+Sending reply [230 User logged in, proceed.]
+Sending Reply [230 User logged in, proceed.]
+Received command: [SYST]
+Sending reply [215 "WINDOWS"] args=[WINDOWS]
+Sending Reply [215 "WINDOWS"]
+Received command: [PORT 127,0,0,1,211,145]
+host=/127.0.0.1 port=54161
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [54161]
+Sending []
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PORT 127,0,0,1,211,147]
+host=/127.0.0.1 port=54163
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [54163]
+Sending [04-11-22 10:07AM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [TYPE I]
+Sending reply [200 TYPE completed.]
+Sending Reply [200 TYPE completed.]
+Received command: [PASV]
+server=/127.0.0.1 port=54165
+Sending reply [227 (127,0,0,1,211,149)] args=[127,0,0,1,211,149]
+Sending Reply [227 (127,0,0,1,211,149)]
+Received command: [RETR C:/data\example1.dat]
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 54165
+Successful (passive mode) client connection to port 54165
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PASV]
+server=/127.0.0.1 port=54167
+Sending reply [227 (127,0,0,1,211,151)] args=[127,0,0,1,211,151]
+Sending Reply [227 (127,0,0,1,211,151)]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 54167
+Successful (passive mode) client connection to port 54167
+Sending [04-11-22 10:07AM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PASV]
+server=/127.0.0.1 port=54169
+Sending reply [227 (127,0,0,1,211,153)] args=[127,0,0,1,211,153]
+Sending Reply [227 (127,0,0,1,211,153)]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 54169
+Successful (passive mode) client connection to port 54169
+Sending [04-11-22 10:07AM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PASV]
+server=/127.0.0.1 port=54171
+Sending reply [227 (127,0,0,1,211,155)] args=[127,0,0,1,211,155]
+Sending Reply [227 (127,0,0,1,211,155)]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 54171
+Successful (passive mode) client connection to port 54171
+Sending [04-11-22 10:07AM                5  example2.dat
+04-11-22 10:07AM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [TYPE I]
+Sending reply [200 TYPE completed.]
+Sending Reply [200 TYPE completed.]
+Received command: [PASV]
+server=/127.0.0.1 port=54173
+Sending reply [227 (127,0,0,1,211,157)] args=[127,0,0,1,211,157]
+Sending Reply [227 (127,0,0,1,211,157)]
+Received command: [RETR C:/data\example2.dat]
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 54173
+Successful (passive mode) client connection to port 54173
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PASV]
+server=/127.0.0.1 port=54175
+Sending reply [227 (127,0,0,1,211,159)] args=[127,0,0,1,211,159]
+Sending Reply [227 (127,0,0,1,211,159)]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 54175
+Successful (passive mode) client connection to port 54175
+Sending [04-11-22 10:07AM                5  example2.dat
+04-11-22 10:07AM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PASV]
+server=/127.0.0.1 port=54177
+Sending reply [227 (127,0,0,1,211,161)] args=[127,0,0,1,211,161]
+Sending Reply [227 (127,0,0,1,211,161)]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 54177
+Successful (passive mode) client connection to port 54177
+Sending [04-11-22 10:07AM                5  example2.dat
+04-11-22 10:07AM                5  example3.dat
+04-11-22 10:07AM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [TYPE I]
+Sending reply [200 TYPE completed.]
+Sending Reply [200 TYPE completed.]
+Received command: [PASV]
+server=/127.0.0.1 port=54179
+Sending reply [227 (127,0,0,1,211,163)] args=[127,0,0,1,211,163]
+Sending Reply [227 (127,0,0,1,211,163)]
+Received command: [RETR C:/data\example3.dat]
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 54179
+Successful (passive mode) client connection to port 54179
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PASV]
+server=/127.0.0.1 port=54181
+Sending reply [227 (127,0,0,1,211,165)] args=[127,0,0,1,211,165]
+Sending Reply [227 (127,0,0,1,211,165)]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 54181
+Successful (passive mode) client connection to port 54181
+Sending [04-11-22 10:07AM                5  example2.dat
+04-11-22 10:07AM                5  example3.dat
+04-11-22 10:07AM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PASV]
+server=/127.0.0.1 port=54183
+Sending reply [227 (127,0,0,1,211,167)] args=[127,0,0,1,211,167]
+Sending Reply [227 (127,0,0,1,211,167)]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 54183
+Successful (passive mode) client connection to port 54183
+Sending [04-11-22 10:07AM                5  example2.dat
+04-11-22 10:07AM                5  example3.dat
+04-11-22 10:07AM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [QUIT]
+Sending reply [221 Service closing control connection.]
+Sending Reply [221 Service closing control connection.]
+Cleaning up the session
+Session stopped.
+Cleaning up server...
+Server stopped.
+Starting the server on port 1234
+Connection accepted from host /127.0.0.1
+Starting the session...
+Sending reply [220 Service ready for new user. (MockFtpServer 2.7.1; see http://mockftpserver.sourceforge.net)]
+Sending Reply [220 Service ready for new user. (MockFtpServer 2.7.1; see http://mockftpserver.sourceforge.net)]
+Received command: [USER user]
+Sending reply [331 User name okay, need password.]
+Sending Reply [331 User name okay, need password.]
+Received command: [PASS pass]
+Sending reply [230 User logged in, proceed.]
+Sending Reply [230 User logged in, proceed.]
+Received command: [SYST]
+Sending reply [215 "WINDOWS"] args=[WINDOWS]
+Sending Reply [215 "WINDOWS"]
+Received command: [PORT 127,0,0,1,211,176]
+host=/127.0.0.1 port=54192
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [54192]
+Sending [04-11-22 10:08AM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PORT 127,0,0,1,211,178]
+host=/127.0.0.1 port=54194
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [54194]
+Sending [04-11-22 10:08AM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PORT 127,0,0,1,211,180]
+host=/127.0.0.1 port=54196
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [54196]
+Sending [04-11-22 10:08AM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Starting the server on port 1234
+Connection accepted from host /127.0.0.1
+Starting the session...
+Sending reply [220 Service ready for new user. (MockFtpServer 2.7.1; see http://mockftpserver.sourceforge.net)]
+Sending Reply [220 Service ready for new user. (MockFtpServer 2.7.1; see http://mockftpserver.sourceforge.net)]
+Received command: [USER user]
+Sending reply [331 User name okay, need password.]
+Sending Reply [331 User name okay, need password.]
+Received command: [PASS pass]
+Sending reply [230 User logged in, proceed.]
+Sending Reply [230 User logged in, proceed.]
+Received command: [SYST]
+Sending reply [215 "WINDOWS"] args=[WINDOWS]
+Sending Reply [215 "WINDOWS"]
+Received command: [PORT 127,0,0,1,211,194]
+host=/127.0.0.1 port=54210
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [54210]
+Sending []
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PORT 127,0,0,1,211,196]
+host=/127.0.0.1 port=54212
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [54212]
+Sending [04-11-22 10:13AM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [TYPE I]
+Sending reply [200 TYPE completed.]
+Sending Reply [200 TYPE completed.]
+Received command: [PASV]
+server=/127.0.0.1 port=54214
+Sending reply [227 (127,0,0,1,211,198)] args=[127,0,0,1,211,198]
+Sending Reply [227 (127,0,0,1,211,198)]
+Received command: [RETR C:/data\example1.dat]
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 54214
+Successful (passive mode) client connection to port 54214
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PASV]
+server=/127.0.0.1 port=54216
+Sending reply [227 (127,0,0,1,211,200)] args=[127,0,0,1,211,200]
+Sending Reply [227 (127,0,0,1,211,200)]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 54216
+Successful (passive mode) client connection to port 54216
+Sending [04-11-22 10:13AM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PASV]
+server=/127.0.0.1 port=54218
+Sending reply [227 (127,0,0,1,211,202)] args=[127,0,0,1,211,202]
+Sending Reply [227 (127,0,0,1,211,202)]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 54218
+Successful (passive mode) client connection to port 54218
+Sending [04-11-22 10:13AM                5  example2.dat
+04-11-22 10:13AM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [TYPE I]
+Sending reply [200 TYPE completed.]
+Sending Reply [200 TYPE completed.]
+Received command: [PASV]
+server=/127.0.0.1 port=54220
+Sending reply [227 (127,0,0,1,211,204)] args=[127,0,0,1,211,204]
+Sending Reply [227 (127,0,0,1,211,204)]
+Received command: [RETR C:/data\example2.dat]
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 54220
+Successful (passive mode) client connection to port 54220
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PASV]
+server=/127.0.0.1 port=54222
+Sending reply [227 (127,0,0,1,211,206)] args=[127,0,0,1,211,206]
+Sending Reply [227 (127,0,0,1,211,206)]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 54222
+Successful (passive mode) client connection to port 54222
+Sending [04-11-22 10:13AM                5  example2.dat
+04-11-22 10:13AM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PASV]
+server=/127.0.0.1 port=54224
+Sending reply [227 (127,0,0,1,211,208)] args=[127,0,0,1,211,208]
+Sending Reply [227 (127,0,0,1,211,208)]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 54224
+Successful (passive mode) client connection to port 54224
+Sending [04-11-22 10:13AM                5  example2.dat
+04-11-22 10:13AM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PASV]
+server=/127.0.0.1 port=54227
+Sending reply [227 (127,0,0,1,211,211)] args=[127,0,0,1,211,211]
+Sending Reply [227 (127,0,0,1,211,211)]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 54227
+Successful (passive mode) client connection to port 54227
+Sending [04-11-22 10:13AM                5  example2.dat
+04-11-22 10:13AM                5  example3.dat
+04-11-22 10:13AM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [TYPE I]
+Sending reply [200 TYPE completed.]
+Sending Reply [200 TYPE completed.]
+Received command: [PASV]
+server=/127.0.0.1 port=54229
+Sending reply [227 (127,0,0,1,211,213)] args=[127,0,0,1,211,213]
+Sending Reply [227 (127,0,0,1,211,213)]
+Received command: [RETR C:/data\example3.dat]
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 54229
+Successful (passive mode) client connection to port 54229
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PASV]
+server=/127.0.0.1 port=54231
+Sending reply [227 (127,0,0,1,211,215)] args=[127,0,0,1,211,215]
+Sending Reply [227 (127,0,0,1,211,215)]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 54231
+Successful (passive mode) client connection to port 54231
+Sending [04-11-22 10:13AM                5  example2.dat
+04-11-22 10:13AM                5  example3.dat
+04-11-22 10:13AM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PASV]
+server=/127.0.0.1 port=54233
+Sending reply [227 (127,0,0,1,211,217)] args=[127,0,0,1,211,217]
+Sending Reply [227 (127,0,0,1,211,217)]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 54233
+Successful (passive mode) client connection to port 54233
+Sending [04-11-22 10:13AM                5  example2.dat
+04-11-22 10:13AM                5  example3.dat
+04-11-22 10:13AM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [QUIT]
+Sending reply [221 Service closing control connection.]
+Sending Reply [221 Service closing control connection.]
+Cleaning up the session
+Session stopped.
+Cleaning up server...
+Server stopped.
+Starting the server on port 1234
+Connection accepted from host /127.0.0.1
+Starting the session...
+Sending reply [220 Service ready for new user. (MockFtpServer 2.7.1; see http://mockftpserver.sourceforge.net)]
+Sending Reply [220 Service ready for new user. (MockFtpServer 2.7.1; see http://mockftpserver.sourceforge.net)]
+Received command: [USER user]
+Sending reply [331 User name okay, need password.]
+Sending Reply [331 User name okay, need password.]
+Received command: [PASS pass]
+Sending reply [230 User logged in, proceed.]
+Sending Reply [230 User logged in, proceed.]
+Received command: [SYST]
+Sending reply [215 "WINDOWS"] args=[WINDOWS]
+Sending Reply [215 "WINDOWS"]
+Received command: [PORT 127,0,0,1,211,223]
+host=/127.0.0.1 port=54239
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [54239]
+Sending []
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PORT 127,0,0,1,211,225]
+host=/127.0.0.1 port=54241
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [54241]
+Sending [04-11-22 10:13AM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [TYPE I]
+Sending reply [200 TYPE completed.]
+Sending Reply [200 TYPE completed.]
+Received command: [PASV]
+server=/127.0.0.1 port=54243
+Sending reply [227 (127,0,0,1,211,227)] args=[127,0,0,1,211,227]
+Sending Reply [227 (127,0,0,1,211,227)]
+Received command: [RETR C:/data\example1.dat]
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 54243
+Successful (passive mode) client connection to port 54243
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PASV]
+server=/127.0.0.1 port=54245
+Sending reply [227 (127,0,0,1,211,229)] args=[127,0,0,1,211,229]
+Sending Reply [227 (127,0,0,1,211,229)]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 54245
+Successful (passive mode) client connection to port 54245
+Sending [04-11-22 10:13AM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PASV]
+server=/127.0.0.1 port=54247
+Sending reply [227 (127,0,0,1,211,231)] args=[127,0,0,1,211,231]
+Sending Reply [227 (127,0,0,1,211,231)]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 54247
+Successful (passive mode) client connection to port 54247
+Sending [04-11-22 10:13AM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PASV]
+server=/127.0.0.1 port=54249
+Sending reply [227 (127,0,0,1,211,233)] args=[127,0,0,1,211,233]
+Sending Reply [227 (127,0,0,1,211,233)]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 54249
+Successful (passive mode) client connection to port 54249
+Sending [04-11-22 10:14AM                5  example2.dat
+04-11-22 10:13AM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [TYPE I]
+Sending reply [200 TYPE completed.]
+Sending Reply [200 TYPE completed.]
+Received command: [PASV]
+server=/127.0.0.1 port=54251
+Sending reply [227 (127,0,0,1,211,235)] args=[127,0,0,1,211,235]
+Sending Reply [227 (127,0,0,1,211,235)]
+Received command: [RETR C:/data\example2.dat]
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 54251
+Successful (passive mode) client connection to port 54251
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PASV]
+server=/127.0.0.1 port=54253
+Sending reply [227 (127,0,0,1,211,237)] args=[127,0,0,1,211,237]
+Sending Reply [227 (127,0,0,1,211,237)]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 54253
+Successful (passive mode) client connection to port 54253
+Sending [04-11-22 10:14AM                5  example2.dat
+04-11-22 10:13AM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PASV]
+server=/127.0.0.1 port=54255
+Sending reply [227 (127,0,0,1,211,239)] args=[127,0,0,1,211,239]
+Sending Reply [227 (127,0,0,1,211,239)]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 54255
+Successful (passive mode) client connection to port 54255
+Sending [04-11-22 10:14AM                5  example2.dat
+04-11-22 10:14AM                5  example3.dat
+04-11-22 10:13AM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [TYPE I]
+Sending reply [200 TYPE completed.]
+Sending Reply [200 TYPE completed.]
+Received command: [PASV]
+server=/127.0.0.1 port=54257
+Sending reply [227 (127,0,0,1,211,241)] args=[127,0,0,1,211,241]
+Sending Reply [227 (127,0,0,1,211,241)]
+Received command: [RETR C:/data\example3.dat]
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 54257
+Successful (passive mode) client connection to port 54257
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PASV]
+server=/127.0.0.1 port=54259
+Sending reply [227 (127,0,0,1,211,243)] args=[127,0,0,1,211,243]
+Sending Reply [227 (127,0,0,1,211,243)]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 54259
+Successful (passive mode) client connection to port 54259
+Sending [04-11-22 10:14AM                5  example2.dat
+04-11-22 10:14AM                5  example3.dat
+04-11-22 10:13AM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PASV]
+server=/127.0.0.1 port=54261
+Sending reply [227 (127,0,0,1,211,245)] args=[127,0,0,1,211,245]
+Sending Reply [227 (127,0,0,1,211,245)]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 54261
+Successful (passive mode) client connection to port 54261
+Sending [04-11-22 10:14AM                5  example2.dat
+04-11-22 10:14AM                5  example3.dat
+04-11-22 10:13AM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [QUIT]
+Sending reply [221 Service closing control connection.]
+Sending Reply [221 Service closing control connection.]
+Cleaning up the session
+Session stopped.
+Cleaning up server...
+Server stopped.
+Starting the server on port 1234
+Connection accepted from host /127.0.0.1
+Starting the session...
+Sending reply [220 Service ready for new user. (MockFtpServer 2.7.1; see http://mockftpserver.sourceforge.net)]
+Sending Reply [220 Service ready for new user. (MockFtpServer 2.7.1; see http://mockftpserver.sourceforge.net)]
+Received command: [USER user]
+Sending reply [331 User name okay, need password.]
+Sending Reply [331 User name okay, need password.]
+Received command: [PASS pass]
+Sending reply [230 User logged in, proceed.]
+Sending Reply [230 User logged in, proceed.]
+Received command: [SYST]
+Sending reply [215 "WINDOWS"] args=[WINDOWS]
+Sending Reply [215 "WINDOWS"]
+Received command: [PORT 127,0,0,1,211,252]
+host=/127.0.0.1 port=54268
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [54268]
+Sending [04-11-22 10:16AM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PORT 127,0,0,1,211,254]
+host=/127.0.0.1 port=54270
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [54270]
+Sending [04-11-22 10:16AM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PORT 127,0,0,1,212,0]
+host=/127.0.0.1 port=54272
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [54272]
+Sending [04-11-22 10:16AM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Starting the server on port 1234
+Connection accepted from host /127.0.0.1
+Starting the session...
+Sending reply [220 Service ready for new user. (MockFtpServer 2.7.1; see http://mockftpserver.sourceforge.net)]
+Sending Reply [220 Service ready for new user. (MockFtpServer 2.7.1; see http://mockftpserver.sourceforge.net)]
+Received command: [USER user]
+Sending reply [331 User name okay, need password.]
+Sending Reply [331 User name okay, need password.]
+Received command: [PASS pass]
+Sending reply [230 User logged in, proceed.]
+Sending Reply [230 User logged in, proceed.]
+Received command: [SYST]
+Sending reply [215 "WINDOWS"] args=[WINDOWS]
+Sending Reply [215 "WINDOWS"]
+Received command: [PORT 127,0,0,1,212,17]
+host=/127.0.0.1 port=54289
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [54289]
+Sending []
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PORT 127,0,0,1,212,19]
+host=/127.0.0.1 port=54291
+Sending reply [200 PORT completed.]
+Sending Reply [200 PORT completed.]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Connecting to client host [/127.0.0.1] on data port [54291]
+Sending [04-11-22 10:19AM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [TYPE I]
+Sending reply [200 TYPE completed.]
+Sending Reply [200 TYPE completed.]
+Received command: [PASV]
+server=/127.0.0.1 port=54293
+Sending reply [227 (127,0,0,1,212,21)] args=[127,0,0,1,212,21]
+Sending Reply [227 (127,0,0,1,212,21)]
+Received command: [RETR C:/data\example1.dat]
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 54293
+Successful (passive mode) client connection to port 54293
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PASV]
+server=/127.0.0.1 port=54295
+Sending reply [227 (127,0,0,1,212,23)] args=[127,0,0,1,212,23]
+Sending Reply [227 (127,0,0,1,212,23)]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 54295
+Successful (passive mode) client connection to port 54295
+Sending [04-11-22 10:19AM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PASV]
+server=/127.0.0.1 port=54297
+Sending reply [227 (127,0,0,1,212,25)] args=[127,0,0,1,212,25]
+Sending Reply [227 (127,0,0,1,212,25)]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 54297
+Successful (passive mode) client connection to port 54297
+Sending [04-11-22 10:19AM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PASV]
+server=/127.0.0.1 port=54299
+Sending reply [227 (127,0,0,1,212,27)] args=[127,0,0,1,212,27]
+Sending Reply [227 (127,0,0,1,212,27)]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 54299
+Successful (passive mode) client connection to port 54299
+Sending [04-11-22 10:19AM                5  example2.dat
+04-11-22 10:19AM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [TYPE I]
+Sending reply [200 TYPE completed.]
+Sending Reply [200 TYPE completed.]
+Received command: [PASV]
+server=/127.0.0.1 port=54301
+Sending reply [227 (127,0,0,1,212,29)] args=[127,0,0,1,212,29]
+Sending Reply [227 (127,0,0,1,212,29)]
+Received command: [RETR C:/data\example2.dat]
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 54301
+Successful (passive mode) client connection to port 54301
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PASV]
+server=/127.0.0.1 port=54303
+Sending reply [227 (127,0,0,1,212,31)] args=[127,0,0,1,212,31]
+Sending Reply [227 (127,0,0,1,212,31)]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 54303
+Successful (passive mode) client connection to port 54303
+Sending [04-11-22 10:19AM                5  example2.dat
+04-11-22 10:19AM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PASV]
+server=/127.0.0.1 port=54305
+Sending reply [227 (127,0,0,1,212,33)] args=[127,0,0,1,212,33]
+Sending Reply [227 (127,0,0,1,212,33)]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 54305
+Successful (passive mode) client connection to port 54305
+Sending [04-11-22 10:19AM                5  example2.dat
+04-11-22 10:19AM                5  example3.dat
+04-11-22 10:19AM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [TYPE I]
+Sending reply [200 TYPE completed.]
+Sending Reply [200 TYPE completed.]
+Received command: [PASV]
+server=/127.0.0.1 port=54307
+Sending reply [227 (127,0,0,1,212,35)] args=[127,0,0,1,212,35]
+Sending Reply [227 (127,0,0,1,212,35)]
+Received command: [RETR C:/data\example3.dat]
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 54307
+Successful (passive mode) client connection to port 54307
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PASV]
+server=/127.0.0.1 port=54309
+Sending reply [227 (127,0,0,1,212,37)] args=[127,0,0,1,212,37]
+Sending Reply [227 (127,0,0,1,212,37)]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 54309
+Successful (passive mode) client connection to port 54309
+Sending [04-11-22 10:19AM                5  example2.dat
+04-11-22 10:19AM                5  example3.dat
+04-11-22 10:19AM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [PASV]
+server=/127.0.0.1 port=54311
+Sending reply [227 (127,0,0,1,212,39)] args=[127,0,0,1,212,39]
+Sending Reply [227 (127,0,0,1,212,39)]
+Received command: [LIST C:/data]
+path=C:/data lastComponent=data containsWildcards=false dir=C:/data pattern=null
+Sending reply [150 File status okay; about to open data connection.]
+Sending Reply [150 File status okay; about to open data connection.]
+Waiting for (passive mode) client connection from client host [/127.0.0.1] on port 54311
+Successful (passive mode) client connection to port 54311
+Sending [04-11-22 10:19AM                5  example2.dat
+04-11-22 10:19AM                5  example3.dat
+04-11-22 10:19AM                5  example1.dat
+]
+Flushing and closing client data socket
+Sending reply [226 Closing data connection. Requested file action successful.]
+Sending Reply [226 Closing data connection. Requested file action successful.]
+Received command: [QUIT]
+Sending reply [221 Service closing control connection.]
+Sending Reply [221 Service closing control connection.]
+Cleaning up the session
+Session stopped.
+Cleaning up server...
+Server stopped.
